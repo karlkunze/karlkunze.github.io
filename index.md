@@ -28,7 +28,7 @@
 
 * **[GitHub](https://github.com/karlkunze)**  
 
-* **[LinkedIn](https://www.linkedin.com/in/Karl-Kunze/)**  
+* **[LinkedIn](https://www.linkedin.com/in/karl-kunze/)**  
 
 <span style="color: white;"> Karl Kunze </span>  
 
