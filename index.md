@@ -5,7 +5,7 @@
 </html>
 
 ***
-## [ABOUT ME / RESUME](./About_me.md)  
+## [ABOUT ME](./About_me.md)  
 
 ***
 
@@ -20,7 +20,7 @@
 
 
 
-## <span style="color: grey;"> Get in touch: </span>  
+## <span style="color: grey;"> How to Contact me: </span>  
 
 * **[Email](mailto:khk44@cornell.edu)**  
 
