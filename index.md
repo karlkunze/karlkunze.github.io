@@ -13,14 +13,14 @@
 
 ***  
 
-## [RESOURCES](./Resources.md)  
+## [OUTREACH](./Outreach.md)  
 
 ***  
 
 
 
 
-## <span style="color: grey;"> How to Contact me: </span>  
+## <span style="color: grey;"> Where to Contact me: </span>  
 
 * **[Email](mailto:khk44@cornell.edu)**  
 
