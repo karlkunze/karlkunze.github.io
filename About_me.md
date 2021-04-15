@@ -2,7 +2,7 @@
 
 ## ABOUT ME  
 
-![Me](/images/IMG_1966_mod.jpg)
+
 
 Greetings👋  
 
