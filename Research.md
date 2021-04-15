@@ -6,13 +6,17 @@
 
 * Genetic Association Studies 🧬
 
-* Breeding for New Environments 
+* Malt Quality Traits 🍺
 
-* Aerial Imaging
+* Breeding for New Environments 🌤️
+
+* Aerial Imaging🚁
 
 
 Check back soon for updates
 
-
+Check out our Multi-use Organic Naked Barley project websites
  [USDA OREI Multi-use Naked Barley Project](https://barleyworld.org/orei-project).
+ 
+  [OREI Multi-use Naked Barley eOrganic website](https://eorganic.info/Barley).
 
