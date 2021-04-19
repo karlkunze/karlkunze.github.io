@@ -28,7 +28,9 @@
 
 * **[GitHub](https://github.com/karlkunze)**  
 
-* **[LinkedIn](https://www.linkedin.com/in/karl-kunze-342908140/)**  
+* **[LinkedIn](https://www.linkedin.com/in/karl-kunze-342908140/)** 
+
+* **[AGR Alumni page](https://cornell.brightcrowd.com/agr/karl-kunze)**
 
 <span style="color: white;"> Karl Kunze </span>  
 
