@@ -1,6 +1,6 @@
 **<span style="color: grey;"> [HOME](./index.md) </span>**
 
-## RESOURCES  
+## Outreach 
 
 Check back soon, work in progress
 
