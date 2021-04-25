@@ -4,7 +4,7 @@
 
 Check out my guest appearance in the "All Things Agriculture Podcast" with Eric Carey
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dw_8N39wyBI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="432" height="243" src="https://www.youtube.com/embed/Dw_8N39wyBI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
