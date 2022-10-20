@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.16)  17 OCT 2022 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.16)  20 OCT 2022 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -524,41 +524,27 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 117.
 (/home/karl/.TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-)
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/pplj/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
+) [1
 
-Overfull \hbox (582.70198pt too wide) in paragraph at lines 150--150
-[]    \T1/cmtt/m/n/10.95 Use collected field trait phenotypes and UAV imaging to measure barley vigor and growth in organic environments Genome wide association of disease  resistance in organic naked barley[] 
- []
-
-
-Overfull \hbox (792.0617pt too wide) in paragraph at lines 150--150
-[]\T1/cmtt/m/n/10.95 Genetic characterization of barley disease resistance across 18 location by year field trials of a naked barley diversity panel Germination     and malting quality traits of winter double haploid barley breeding population-[] 
- []
-
-[1
-
-{/home/karl/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
+{/home/karl/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
 AED: lastpage setting LastPage
-[2] (./svm-rmarkdown-cv.aux)
+[3] (./svm-rmarkdown-cv.aux)
 Package rerunfilecheck Info: File `svm-rmarkdown-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 7434C94294A29A7DF936BD6E05F2891C;1322.
+(rerunfilecheck)             Checksum: 4D37C12083AE23D7357FB2CEE1120D4A;1463.
  ) 
 Here is how much of TeX's memory you used:
- 15395 strings out of 477011
- 242137 string characters out of 5827402
- 630820 words of memory out of 5000000
- 36082 multiletter control sequences out of 15000+600000
- 512326 words of font info for 209 fonts, out of 8000000 for 9000
+ 15364 strings out of 477011
+ 241814 string characters out of 5827402
+ 629860 words of memory out of 5000000
+ 36079 multiletter control sequences out of 15000+600000
+ 507092 words of font info for 183 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,11n,76p,1205b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,11n,76p,1205b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} </home/karl/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/karl/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on svm-rmarkdown-cv.pdf (2 pages, 103279 bytes).
+Output written on svm-rmarkdown-cv.pdf (3 pages, 92706 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 53329 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 49241 words of extra memory for PDF output out of 51595 (max. 10000000)
 
