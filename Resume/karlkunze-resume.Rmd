@@ -1,0 +1,142 @@
+---
+title: "Résumé"
+author: "Karl Kunze"
+date: "10/20/2022"
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: true
+    template: svm-latex-resume.tex
+fontawesome: TRUE
+# How can we get a hold of you?
+email: khk44@cornell.edu
+phone: 585-813-9335
+location: "422 Bradfield Hall, Ithaca NY, 14853"
+github: karlkunze
+web: karlkunze.github.io
+twitter: "@kunzx37"
+geometry: "top=.5in, left =.5in, right=.5in, bottom=.5in"
+mainfont: cochineal
+sansfont: Fira Sans
+# monofont: Fira Code # I want to use this, but seems to choke on @
+urlcolor: blue
+fontsize: 11pt
+
+includephoto: FALSE
+myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
+# shift: "7in,-.25in" # this is default
+photobigness: 1.75cm
+# photozoom: ".2\textwidth" # this is default
+---
+
+
+<!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
+
+:::::: {.columns}
+::: {.column width="50%" data-latex="{0.50\textwidth}"}
+
+# Experience
+## Research Projects
+
+-   Weed Competitive Ability in Organic Spring Naked Barley by using collected field trait phenotypes and UAV imaging to measure barley vigor and growth in organic environments
+
+-   Genetic characterization of barley disease resistance across 18 location by year field trials of a naked barley diversity panels
+
+-   Genetic by environmental analysis of winter organic naked barley variety trials across 3 years and 3 locations in the Northern United States
+
+-   Evaluation of dormancy and germination across a double haploid winter malting barley breeding population
+
+-   Evaluation of malting quality of a subset of winter malting barley lines at the USDA ARS Cereal Crops Research Unit in Madison, WI in December 2021 and January-February 2022 
+
+# Technical Skills
+
+-   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, usuing phenotype and genotype data for selection decisions, processing, analysis, organization, and experimental design of field trials
+-   Highly proficient in R statistical software and Excel for data management and analysis 
+
+-   Basic proficiency in Unix shell scripting and command line. Limited experience with Python
+
+-   Certified FAA UAS Part 107 Remote Pilots License. 
+
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations
+
+-   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+
+-   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
+
+# Awards Received
+
+-   Gerald O. Mott Award Recipient  \hfill March 2022 
+
+-   Cornell Plant Breeding and Genetics Munger-Murphy Award  \hfill August 2022 
+
+-   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award  \hfill December 2018
+
+
+:::
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
+\ 
+<!-- an empty div with an empty character to serve as a column sep -->
+:::
+:::::: {.column width="40%" data-latex="{0.40\textwidth}"}
+
+# Education
+
+## Undergraduate
+-   B.S. Plant Science concentration in Plant Breeding and Genetics, minor in Business for Life Sciences- Cornell University        \hfill 2013-2017
+
+## Graduate
+-   Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Plant Pathology and Food Science, Cornell University             \hfill 2017-present
+
+-   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
+
+# Skills
+
+-   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, usuing phenotype and genotype data for selection decisions, processing, analysis, organization, and experimental design of field trials
+
+-   Highly proficient in R statistical software and Excel for data management and analysis 
+
+-   Basic proficiency in Unix shell scripting and command line. Limited experience with Python
+
+-   Certified FAA UAS Part 107 Remote Pilots License. 
+
+-   Highly Proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations
+
+-   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+
+-   Basic proficiency in chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
+
+# Publications
+
+1.  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
+
+2. Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,& Sorrells, M. E. (2022). Effect of Genotype and Environment on Food-Related Traits of Organic Winter Naked Barleys. *Foods*, *11*(17),2642.<https://doi.org/10.3390/foods11172642>
+
+3.  Chris Massman, Brigid Meints, Javier Hernandez, Karl Kunze, Patrick M.Hayes, Mark E. Sorrells, Kevin P. Smith, Julie C. Dawson, and Lucia Gutierrez. Crop Science(2022) Genetic Characterization of Agronomic Traits and Grain Threshability for Organic Naked Barley in the Northern U.S. <https://doi.org/10.1002/csc2.20686>
+
+4. Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
+
+
+:::
+::::::
+
+<!-- If you want another page, this is how you can do it... -->
+
+<!-- ##\newpage
+
+:::::: {.columns}
+::: {.column width="60%" data-latex="{0.60\textwidth}"}
+
+
+
+
+:::
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
+
+
+
+:::
+:::::: {.column width="38%" data-latex="{0.38\textwidth}"}
+
+
+:::
+::::::

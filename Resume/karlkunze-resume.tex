@@ -1,0 +1,318 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[
+  10pt,
+]{article}
+
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{cochineal}
+  \setsansfont[]{Fira Sans}
+\fi
+
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Résumé},
+  pdfauthor={Karl Kunze},
+  colorlinks=true,
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=blue,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[top=.5in, left =.5in, right=.5in, bottom=.5in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\title{Résumé}
+\usepackage{authblk}
+              
+            \author{Karl Kunze}
+            \date{10/20/2022}
+
+
+%% should be top-aligned in case of uneven vertical length)
+\newenvironment{columns}[1][]{}{}
+%%
+\newenvironment{column}[1]{\begin{minipage}[t]{#1}\ignorespaces}{%
+\end{minipage}
+\ifhmode\unskip\fi
+\aftergroup\useignorespacesandallpars}
+%%
+\def\useignorespacesandallpars#1\ignorespaces\fi{%
+#1\fi\ignorespacesandallpars}
+%%
+\makeatletter
+\def\ignorespacesandallpars{%
+  \@ifnextchar\par
+    {\expandafter\ignorespacesandallpars\@gobble}%
+    {}%
+}
+\makeatother
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Mess with sections
+\usepackage{titlesec}
+\usepackage{sectsty}
+% \sectionfont{\rmfamily\mdseries\large\bf\underline}
+\sectionfont{\normalfont\sffamily\large\bfseries\sectionrule{0pt}{0pt}{-4pt}{1pt}}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*}
+
+
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Karl Kunze - Résumé - \emph{Updated:} \apstylekinda\today }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Karl Kunze  (R\'{e}sum\'{e})},
+            pdfauthor={Karl Kunze},
+            colorlinks=true,
+            linkcolor=Maroon,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+
+\begin{document}
+% shift=(current page.north east)
+%\begin{wrapfigure}{r}{\textwidth}
+
+ % includephoto
+%\end{wrapfigure}
+
+\flushleft{\huge \bfseries Karl Kunze}
+
+\flushleft{\footnotesize
+
+\faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:khk44@cornell.edu}{\nolinkurl{khk44@cornell.edu}}} \hspace{1 mm}
+\faPhone \hspace{1 mm} 585-813-9335 \hspace{1 mm}
+\faMapMarker \hspace{1 mm} 422 Bradfield Hall, Ithaca NY,
+14853 \hspace{1 mm}
+}
+\vspace{-1em}
+\flushleft{\footnotesize
+\faGlobe \hspace{1 mm} \href{http://karlkunze.github.io}{\tt karlkunze.github.io}  \hspace{1 mm} 
+\faTwitter \hspace{1 mm} \href{http://twitter.com/@kunzx37}{\tt @kunzx37} \hspace{1 mm}
+\faLinkedin \hspace{1 mm} \href{https://www.linkedin.com/in/}{\tt } \hspace{1 mm}
+\faGithub \hspace{1 mm} \href{http://github.com/karlkunze}{\tt karlkunze} \hspace{1 mm}
+}
+
+\begin{column}{0.50\textwidth}
+
+\hypertarget{experience}{%
+\section{Experience}\label{experience}}
+
+\hypertarget{research-projects}{%
+\subsection{Research Projects}\label{research-projects}}
+
+\begin{itemize}
+\item
+  Weed Competitive Ability in Organic Spring Naked Barley by using
+  collected field trait phenotypes and UAV imaging to measure barley
+  vigor and growth in organic environments
+\item
+  Genome wide association of disease resistance in organic naked barley
+\item
+  Genetic characterization of barley disease resistance across 18
+  location by year field trials of a naked barley diversity panel
+\item
+  Germination and malting quality traits of winter barley breeding lines
+\item
+  Counducted research the USDA ARS Cereal Crops Research Unit in
+  Madison, WI in December 2021 and January-February 2022 to assist in
+  malting quality analysis of a subset of malting barley lines.
+\item
+  Co-led a weekly graduate student journal club with Will Stafstrom in
+  the Spring 2022 semester. Topics were related to current research and
+  topics in the fields of plant breeding, genetics and crop science \#
+  Technical Skills
+\item
+  Highly proficient in operating and data collection of a plant breeding
+  program including recording field phenotypes, usuing phenotype and
+  genotype data for selection decisions, processing, analysis,
+  organization, and experimental design of field trials
+\item
+  Highly proficient in R statistical software and Excel for data
+  management and analysis
+\item
+  Basic proficiency in Unix shell scripting and command line. Limited
+  experience with Python
+\item
+  Certified FAA UAS Part 107 Remote Pilots License.
+\item
+  Highly Proficient in flying unmanned aerial systems for imaging of
+  plant variety trials and breeding populations
+\item
+  Basic proficiency in Agisoft Pro and Open Drone Map software stitching
+  applications.
+\item
+  Basic proficiency related to chemistry malting quality analysis for
+  alpha-amylase, diastatic power, beta-glucan, soluble wort protein and
+  free amino nitrogen
+\end{itemize}
+
+\hypertarget{awards-received}{%
+\section{Awards Received}\label{awards-received}}
+
+\begin{itemize}
+\item
+  Gerald O. Mott Award Recipient \hfill March 2022
+\item
+  Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August
+  2022
+\item
+  Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award
+  \hfill December 2018
+\end{itemize}
+
+\end{column}
+
+\begin{column}{0.02\textwidth}
+~
+
+\end{column}
+
+\begin{column}{0.40\textwidth}
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\hypertarget{undergraduate}{%
+\subsection{Undergraduate}\label{undergraduate}}
+
+\begin{itemize}
+\tightlist
+\item
+  B.S. Plant Science concentration in Plant Breeding and Genetics, minor
+  in Business for Life Sciences- Cornell University \hfill 2013-2017
+\end{itemize}
+
+\hypertarget{graduate}{%
+\subsection{Graduate}\label{graduate}}
+
+\begin{itemize}
+\tightlist
+\item
+  Graduate Research Assistant, Graduate School Field of Plant Breeding
+  minor in Plant Pathology and Food Science, Cornell University
+  \hfill 2017-present
+\end{itemize}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\begin{itemize}
+\item
+  Highly proficient in operating and data collection of a plant breeding
+  program including recording field phenotypes, usuing phenotype and
+  genotype data for selection decisions, processing, analysis,
+  organization, and experimental design of field trials* Highly
+  proficient in R statistical software and Excel for data management and
+  analysis
+\item
+  Basic proficiency in Unix shell scripting and command line. Limited
+  experience with Python
+\item
+  Certified FAA UAS Part 107 Remote Pilots License.
+\item
+  Highly Proficient in flying unmanned aerial systems for imaging of
+  plant variety trials and breeding populations
+\item
+  Basic proficiency in Agisoft Pro and Open Drone Map software stitching
+  applications.
+\item
+  Basic proficiency in chemistry malting quality analysis for
+  alpha-amylase, diastatic power, beta-glucan, soluble wort protein and
+  free amino nitrogen
+\end{itemize}
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant
+  Genome(2022) Genome wide marker effect heterogeneity is associated
+  with a large effect dormancy locus in winter malting barley.
+  \url{https://doi.org/10.1002/tpg2.20247}
+\item
+  Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,\&
+  Sorrells, M. E. (2022). Effect of Genotype and Environment on
+  Food-Related Traits of Organic Winter Naked Barleys. \emph{Foods},
+  \emph{11}(17),2642.\url{https://doi.org/10.3390/foods11172642}
+\item
+  Chris Massman, Brigid Meints, Javier Hernandez, Karl Kunze, Patrick
+  M.Hayes, Mark E. Sorrells, Kevin P. Smith, Julie C. Dawson, and Lucia
+  Gutierrez. Crop Science(2022) Genetic Characterization of Agronomic
+  Traits and Grain Threshability for Organic Naked Barley in the
+  Northern U.S. \url{https://doi.org/10.1002/csc2.20686}
+\item
+  Sweeney, D.W., Kunze, K.H. \& Sorrells, M.E. QTL x environment
+  modeling of malting barley preharvest sprouting. Theor Appl Genet
+  (2021). \url{https://doi.org/10.1007/s00122-021-03961-5}
+\end{enumerate}
+
+\end{column}
+
+\end{document}
