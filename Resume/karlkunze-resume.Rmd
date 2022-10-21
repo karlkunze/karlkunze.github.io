@@ -15,12 +15,13 @@ location: "422 Bradfield Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
 twitter: "@kunzx37"
-geometry: "top=.5in, left =.5in, right=.5in, bottom=.75in"
+linkedin: "karl-k-342908140"
+geometry: "top=.5in, left =.5in, right=.5in, bottom=.5in"
 mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 10pt
+fontsize: 11pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
@@ -35,6 +36,14 @@ photobigness: 1.75cm
 :::::: {.columns}
 ::: {.column width="50%" data-latex="{0.50\textwidth}"}
 
+# Education
+
+## Undergraduate
+-   B.S. Plant Science concentration in Plant Breeding and Genetics, minor in Business for Life Sciences- Cornell University        \hfill 2013-2017
+
+## Graduate
+-   Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Plant Pathology and Food Science, Cornell University             \hfill 2017-present
+
 # Experience
 ## Research Projects
 
@@ -48,20 +57,6 @@ photobigness: 1.75cm
 
 -   Evaluation of malting quality of a subset of winter malting barley lines at the USDA ARS Cereal Crops Research Unit in Madison, WI in December 2021 and January-February 2022 
 
-# Technical Skills
-
--   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, usuing phenotype and genotype data for selection decisions, processing, analysis, organization, and experimental design of field trials
--   Highly proficient in R statistical software and Excel for data management and analysis 
-
--   Basic proficiency in Unix shell scripting and command line. Limited experience with Python
-
--   Certified FAA UAS Part 107 Remote Pilots License. 
-
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations
-
--   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
-
--   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
 
 # Awards Received
 
@@ -79,30 +74,31 @@ photobigness: 1.75cm
 :::
 :::::: {.column width="40%" data-latex="{0.40\textwidth}"}
 
-# Education
-
-## Undergraduate
--   B.S. Plant Science concentration in Plant Breeding and Genetics, minor in Business for Life Sciences- Cornell University        \hfill 2013-2017
-
-## Graduate
--   Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Plant Pathology and Food Science, Cornell University             \hfill 2017-present
-
-# Skills
+# Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, usuing phenotype and genotype data for selection decisions, processing, analysis, organization, and experimental design of field trials
-
 -   Highly proficient in R statistical software and Excel for data management and analysis 
 
 -   Basic proficiency in Unix shell scripting and command line. Limited experience with Python
 
 -   Certified FAA UAS Part 107 Remote Pilots License. 
 
--   Highly Proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations
 
 -   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
 
--   Basic proficiency in chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
+-   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
 
+
+# Professional Societies
+
+-   Tri societies CSSA(Crop Science Society of America) student member \hfill 2019-present 
+
+-   National Association of Plant Breeders (NAPB) student member \hfill 2020-present 
+
+-   New York State Agriculture Society member \hfill 2017-present
+
+-   Student Organic Seed Society member\hfill 2020-2021 
 
 
 :::
@@ -131,16 +127,9 @@ photobigness: 1.75cm
 :::
 :::::: {.column width="38%" data-latex="{0.38\textwidth}"}
 
-# Professional Societies
+# Outreach
+-   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
 
--   Tri societies CSSA(Crop Science Society of America) student member \hfill 2019-present 
 
--   National Association of Plant Breeders (NAPB) student member \hfill 2020-present 
-
--   New York State Agriculture Society member \hfill 2017-present
-
--   Student Organic Seed Society member\hfill 2020-2021 
-
--   Alumni of Alpha Gamma Rho, Zeta Chapter-Cornell University
 :::
 ::::::
