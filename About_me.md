@@ -10,5 +10,5 @@ My name is Karl Kunze, and I am a PhD Student in the Small Grains Breeding progr
 
 
 ### **View [CV](./CV/karlkunze-cv.pdf)**   
-### **View [Resume](./Resume/karlkunze-resume.pdf)**  
+ 
 *LaTeX template credit [Claud D. Park](https://github.com/posquit0/Awesome-CV)*
