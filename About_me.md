@@ -1,7 +1,10 @@
 **<span style="color: grey;"> [HOME](./index.md) </span>**
 
-## RESEARCH INTERESTS  
 ## ABOUT ME  
+
+
+### **View [resume](./Resume/karlkunze-resume.pdf)  [CV](./Resume/karlkunze-cv.pdf)**
+
 
 Greetings 
 
