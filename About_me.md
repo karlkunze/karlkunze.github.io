@@ -2,7 +2,6 @@
 
 ## ABOUT ME  
 
-### **View [Resume](./Resume/karlkunze-resume.pdf)** 
 
 Greetings 
 
