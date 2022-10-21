@@ -9,11 +9,11 @@ author: Karl Hans Kunze
 address: "422 Bradfield Hall, Ithaca NY 14853"
 fontawesome: yes
 email: khk44@cornell.edu
+linkedin: "karl-k-342908140"
 github: karlkunze
 twitter: kunzx37
 phone: "+1-585-813-9335"
 web: karlkunze.github.io
-linkedin: "karl-k-342908140"
 updated: no
 keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
