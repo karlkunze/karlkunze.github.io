@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.21)  21 OCT 2022 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.21)  21 OCT 2022 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,54 +589,34 @@ Package microtype Info: Character `029' is missing
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 169.
 (/home/karl/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (10.84279pt too wide) in paragraph at lines 160--300
-[][][][]  
- []
-
-[1
+) [1
 
 {/home/karl/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 332.
+(Font)              <10.95> on input line 335.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 332.
+(Font)              <8> on input line 335.
 
-Underfull \hbox (badness 1253) in paragraph at lines 334--339
-[]\T1/lmr/m/n/10.95 (+20) Bunting, J. S., Ross, A. S., Meints, B. M.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--374
-\T1/lmr/m/n/10.95 (+20) amid -[] climate -[] change -[] the -[] challenge -[] of -[] pre -[] harvest -[]
- []
-
-
-Underfull \hbox (badness 2073) in paragraph at lines 404--407
-[]\T1/lmr/m/n/10.95 (+20) Attended Stu-dent Or-ganic Seed So-ci-ety (SOSS)
- []
-
-
-Overfull \hbox (10.84279pt too wide) in paragraph at lines 302--413
-[][][][]  
+Underfull \hbox (badness 10000) in paragraph at lines 374--377
+\T1/lmr/m/n/10.95 (+20) cli-mate change [][]$https : / / ambainc . org / growing -[]
  []
 
 
 AED: lastpage setting LastPage
 [2] (./karlkunze-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 16451 strings out of 477011
- 259798 string characters out of 5827402
+ 16457 strings out of 477011
+ 259868 string characters out of 5827402
  688729 words of memory out of 5000000
  37171 multiletter control sequences out of 15000+600000
- 538831 words of font info for 134 fonts, out of 8000000 for 9000
+ 539127 words of font info for 137 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  74i,11n,81p,1205b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/home/karl/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/karl/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></home/karl/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on karlkunze-resume.pdf (2 pages, 216454 bytes).
+Output written on karlkunze-resume.pdf (2 pages, 216430 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
+ 165 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
  41057 words of extra memory for PDF output out of 42996 (max. 10000000)
 
