@@ -15,12 +15,12 @@ location: "422 Bradfield Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
 twitter: "@kunzx37"
-geometry: "top=.5in, left =.5in, right=.5in, bottom=.5in"
+geometry: "top=.5in, left =.5in, right=.5in, bottom=.75in"
 mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 11pt
+fontsize: 10pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
