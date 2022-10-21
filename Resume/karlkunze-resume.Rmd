@@ -87,8 +87,6 @@ photobigness: 1.75cm
 ## Graduate
 -   Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Plant Pathology and Food Science, Cornell University             \hfill 2017-present
 
--   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
-
 # Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, usuing phenotype and genotype data for selection decisions, processing, analysis, organization, and experimental design of field trials
@@ -105,6 +103,16 @@ photobigness: 1.75cm
 
 -   Basic proficiency in chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
 
+
+
+:::
+::::::
+
+\newpage
+
+:::::: {.columns}
+::: {.column width="60%" data-latex="{0.60\textwidth}"}
+
 # Publications
 
 1.  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
@@ -117,26 +125,22 @@ photobigness: 1.75cm
 
 
 :::
-::::::
-
-<!-- If you want another page, this is how you can do it... -->
-
-<!-- ##\newpage
-
-:::::: {.columns}
-::: {.column width="60%" data-latex="{0.60\textwidth}"}
-
-
-
-
-:::
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
-
-
-
+\ 
+<!-- an empty div with an empty character to serve as a column sep -->
 :::
 :::::: {.column width="38%" data-latex="{0.38\textwidth}"}
 
+# Professional Societies
 
+-   Tri societies CSSA(Crop Science Society of America) student member \hfill 2019-present 
+
+-   National Association of Plant Breeders (NAPB) student member \hfill 2020-present 
+
+-   New York State Agriculture Society member \hfill 2017-present
+
+-   Student Organic Seed Society member\hfill 2020-2021 
+
+-   Alumni of Alpha Gamma Rho, Zeta Chapter-Cornell University
 :::
 ::::::
