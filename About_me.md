@@ -3,7 +3,7 @@
 ## ABOUT ME  
 
 
-### **View [resume](./Resume/karlkunze-resume.pdf)  [CV](./Resume/karlkunze-cv.pdf)**
+### **View [resume](./Resume/karlkunze-resume.pdf)  [CV](./CV/karlkunze-cv.pdf)**
 
 
 Greetings 
