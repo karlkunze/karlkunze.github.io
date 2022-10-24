@@ -5,7 +5,7 @@
 </html>
 
 ***
-## [ABOUT ME and RESUME](./About_me.md)  
+## [ABOUT ME](./About_me.md)  
 
 ***
 
