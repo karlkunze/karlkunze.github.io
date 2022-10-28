@@ -3,10 +3,13 @@ title: "Résumé"
 author: "Karl Kunze"
 date: "10/20/2022"
 output: 
+  word_document:
   pdf_document:
     latex_engine: pdflatex
     keep_tex: true
     template: svm-latex-resume.tex
+
+
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
