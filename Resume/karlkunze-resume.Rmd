@@ -3,13 +3,12 @@ title: "Résumé"
 author: "Karl Kunze"
 date: "10/20/2022"
 output: 
-  word_document:
   pdf_document:
     latex_engine: pdflatex
     keep_tex: true
     template: svm-latex-resume.tex
 
-
+academicons: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
@@ -19,6 +18,7 @@ github: karlkunze
 web: karlkunze.github.io
 twitter: "@kunzx37"
 linkedin: "karl-k-342908140"
+orcid: "0000-0003-4548-1808"
 geometry: "top=.5in, left =.5in, right=.5in, bottom=.25in"
 update: yes
 mainfont: cochineal
