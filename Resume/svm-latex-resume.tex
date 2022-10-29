@@ -348,10 +348,10 @@ $endif$
 \makeatother
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{orcidlink}
+$if(orcidlink)$\usepackage{orcidlink}$endif$
 $if(fontawesome)$\usepackage{fontawesome}$endif$
-$if(academicons)$\usepackage{academicons}$endif$
+
 
 % Mess with sections
 \usepackage{titlesec}
@@ -441,7 +441,7 @@ $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{h
 $if(email)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm}$endif$
 $if(email)$$if(fontawesome)$\faLinkedin \hspace{1 mm}$else$\emph{LinkedIn:}$endif$ \href{https://www.linkedin.com/in/$linkedin$}{\tt $linkedin$} \hspace{1 mm}$endif$
 $if(email)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm}$endif$
-$if(email)$$if(academicons)$\aiOrcid \hspace{1 mm}$else$\emph{Orcid:}$endif$ \href{https://orcid.org/$orcid$}{\tt $orcid$} \hspace{1 mm}$endif$
+$if(email)$$if(orcidlink)$\orcidlink{0000-0003-4548-1808}\hspace{1 mm}$else$\emph{Orcid:}$endif${\tt $orcid$} \hspace{1 mm}$endif$
 }
 
 

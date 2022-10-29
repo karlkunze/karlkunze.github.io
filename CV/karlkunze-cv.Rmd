@@ -89,7 +89,7 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 
 -   NYS Department of Agriculture and Markets Funding
 
-# Publications
+# Publications \orcidlink{0000-0003-4548-1808}
 
 1.  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
 

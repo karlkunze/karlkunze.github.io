@@ -8,7 +8,7 @@ output:
     keep_tex: true
     template: svm-latex-resume.tex
 
-academicons: TRUE
+orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
