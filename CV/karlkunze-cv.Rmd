@@ -15,7 +15,7 @@ twitter: kunzx37
 phone: "+1-585-813-9335"
 web: karlkunze.github.io
 updated: no
-keywords: R Markdown, academic CV, template
+keywords: Plant Breeding, Genetics, Quantative Genetics, Experimental Design, Barley
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
@@ -70,6 +70,8 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 -   Demonstrated abilities to work in collaborative multi-institutional research projects
 
 -   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
+
+-   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
 
 # Awards Received
 
@@ -131,6 +133,9 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 -   Alumni of Alpha Gamma Rho, Zeta Chapter-Cornell University
 
 # Presentations and Conferences attended
+
+- Research Presentations titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA,ASA and SSSA Tri-society annual meeting November 2022, Baltimore, Maryland
+
 -   Research Presentation titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" at the 23rd North American Barley Researchers Workshop and 43rd Barley Improvement Conference September 2022, UC Davis,CA
 
 -   Research Presentation titled "Developing Winter Malting Barley for New York State" Michigan Beer and Malt Conference January 2022 Traverse City, MI 
