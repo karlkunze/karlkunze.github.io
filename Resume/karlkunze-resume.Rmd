@@ -1,7 +1,7 @@
 ---
 title: "Résumé"
 author: "Karl Kunze"
-date: "10/20/2022"
+date: "12/07/2022"
 output: 
   pdf_document:
     latex_engine: pdflatex
@@ -55,7 +55,7 @@ photobigness: 1.75cm
 
 -   Measure weed components of weed competitive ability in organic spring baked barley variety trials by using collected field trait phenotypes and UAV imaging to measure barley vigor and growth
 
--   Genetic wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United Sates
+-   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United Sates
 
 -   Genetic by environmental analysis of winter organic naked barley variety trials across 3 years and 3 locations throughout the Northern United States
 
@@ -97,12 +97,12 @@ photobigness: 1.75cm
 
 -   Demonstrated ability to work in multi-institutional collaborative projects
 
-- Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
+-   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
 # Professional Services
 
 -   Student representative of the CSSA(Crop Science Society of America) executive board \hfill 2022-2023
 
--   Representative of the CSSA science policy committee                                                                                       \hfill                             2022-present
+-   Representative of the Tri-socities science policy committee                                                                                       \hfill                             2022-present
 
 -   Local Graduate Student Liaison member for the National Association of Plant Breeders (NAPB) Graduate Student Working Group \hfill Fall 2020- August 2021
 
@@ -143,7 +143,7 @@ photobigness: 1.75cm
 :::
 
 ::: {.column width="2%" data-latex="{0.02\\textwidth}"}
-  <!-- an empty div with an empty character to serve as a column sep -->
+ <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
 ::: {.column width="48%" data-latex="{0.48\\textwidth}"}
@@ -161,16 +161,20 @@ photobigness: 1.75cm
 
 # Research and Conference presentations
 
+- Research Presentations titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA,ASA and SSSA Tri-society annual meeting November 2022, Baltimore, Maryland
+
 -   Research Presentation titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" at the 23rd North American Barley Researchers Workshop and 43rd Barley Improvement Conference September 2022, UC Davis,CA
 
 -   Research Presentation titled "Developing Winter Malting Barley for New York State" Michigan Beer and Malt Conference January 2022 Traverse City, MI
 
--   Research Presentation titled "Components of Weed Competitive Ability" at CSSA,ASA and SSSA Tri-society annual meeting November 2021, Salt Lake City, Utah
+-   Research Presentation titled "Components of Weed Competitive Ability" at CSSA,ASA and SSSA Tri-societies annual meeting November 2021, Salt Lake City, Utah
 
 -   Presenter at the Philly Malt and Grains Conference, Virtual March 2021
 
--   Attended Student Organic Seed Society (SOSS) conference- Madison, WI, August 2019
+-   Attended Student Organic Seed Society conference- Madison, WI, August 2019
 
--   Participant in the Tri-societies poster competition Baltimore, MD, November 2018 Attended NOFA-NY Organic Conference January 2018
+-   Participant in the Tri-societies poster competition Baltimore, MD, November 2018 
+
+-   Attended NOFA-NY Organic Conference January 2018
 :::
 :::
