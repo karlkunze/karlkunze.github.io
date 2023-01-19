@@ -37,7 +37,7 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 ::: columns
-::: {.column width="50%" data-latex="{0.50\\textwidth}"}
+::: {.column width="50%" data-latex="{0.50\textwidth}"}
 # Education
 
 ## Undergraduate
@@ -72,11 +72,11 @@ photobigness: 1.75cm
 -   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
 :::
 
-::: {.column width="2%" data-latex="{0.02\\textwidth}"}
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
-::: {.column width="50%" data-latex="{0.50\\textwidth}"}
+::: {.column width="50%" data-latex="{0.50\textwidth}"}
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, using phenotype and genotype data for selection decisions
@@ -119,7 +119,7 @@ photobigness: 1.75cm
 \newpage
 
 ::: columns
-::: {.column width="48%" data-latex="{0.48\\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Professional Societies
 
 -   Tri societies CSSA(Crop Science Society of America) student member \hfill 2019-present
@@ -143,11 +143,11 @@ photobigness: 1.75cm
 4.  Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 :::
 
-::: {.column width="2%" data-latex="{0.02\\textwidth}"}
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
-::: {.column width="48%" data-latex="{0.48\\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Outreach
 
 -   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
@@ -162,6 +162,8 @@ photobigness: 1.75cm
 
 # Research and Conference presentations
 
+- Presented current research and status of the NY winter malting barley project at the NYS Empire Malt and Barley Summit at the Culinary Institute of America December 2022, Poughkeepsie, NY
+
 - Research Presentations titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA,ASA and SSSA Tri-society annual meeting November 2022, Baltimore, Maryland
 
 -   Research Presentation titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" at the 23rd North American Barley Researchers Workshop and 43rd Barley Improvement Conference September 2022, UC Davis,CA
@@ -173,9 +175,6 @@ photobigness: 1.75cm
 -   Presenter at the Philly Malt and Grains Conference, Virtual March 2021
 
 -   Attended Student Organic Seed Society conference- Madison, WI, August 2019
-
 -   Participant in the Tri-societies poster competition Baltimore, MD, November 2018 
-
--   Attended NOFA-NY Organic Conference January 2018
 :::
 :::
