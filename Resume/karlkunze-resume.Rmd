@@ -12,7 +12,7 @@ orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
-phone: 585-813-9335
+#phone: 585-813-9335
 location: "422 Bradfield Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
@@ -25,7 +25,7 @@ mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 11pt
+fontsize: 10pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
@@ -37,7 +37,7 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 ::: columns
-::: {.column width="50%" data-latex="{0.50\\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Education
 
 ## Undergraduate
@@ -65,7 +65,7 @@ photobigness: 1.75cm
 
 # Awards and Grants Received
 
--   USDA OREI grants program 2017-51300-26809, 2020-51300-32179 and 2020-51300-32379. "Developing Multi-use NakedBarley for Organic Systems"
+-   USDA OREI grants program 2017-51300-26809, 2020-51300-32179 and 2020-51300-32379. "Developing Multi-use Naked Barley for Organic Systems"
 
 -   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and
 Spring Barley"- American Malting barley Association Grant Award \hfill July 2021-June 2022
@@ -77,38 +77,34 @@ Spring Barley"- American Malting barley Association Grant Award \hfill July 2021
 -   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
 :::
 
-::: {.column width="2%" data-latex="{0.02\textwidth}"}
+::: {.column width="2%" data-latex="{0.04\textwidth}"}
  <!-- an empty div with an empty character to serve as a column esp -->
 :::
 
-::: {.column width="50%" data-latex="{0.50\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, using phenotype and genotype data for selection decisions
 
 -   Highly experienced in processing, analysis, organization, and experimental design of field trials of the Cornell small grains breeding program
 
--   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficency in using git version control
+-   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
 
 -   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker
 
--   Certified FAA UAS Part 107 Remote Pilots License. \hfill 2019-present
-
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations(conducted over 100 flights) \hfill 2019-present
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations(conducted over 100 flights)  &   Certified FAA UAS Part 107 Remote Pilots License. \hfill 2019-present
 
 -   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
 
--   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
+-   Basic proficiency related to chemistry for malting quality analysis 
 
 -   Demonstrated ability to work in multi-institutional collaborative projects
 
--   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
+-   Participated in an International exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
 
-# Professional Services
+# Leadership Activities and Professional Services
 
 -   Student representative of the CSSA(Crop Science Society of America) executive board \hfill 2022-2023
-
--   Representative of the Tri-socities science policy committee                                                                                       \hfill                             2022-present
 
 -   Local Graduate Student Liaison member for the National Association of Plant Breeders (NAPB) Graduate Student Working Group \hfill Fall 2020- August 2021
 
@@ -133,8 +129,6 @@ Spring Barley"- American Malting barley Association Grant Award \hfill July 2021
 
 -   New York State Agriculture Society member \hfill 2017-present
 
--   Student Organic Seed Society member \hfill 2020-2021
-
 -   Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
 
 # Publications
@@ -148,7 +142,7 @@ Spring Barley"- American Malting barley Association Grant Award \hfill July 2021
 4.  Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 :::
 
-::: {.column width="2%" data-latex="{0.02\textwidth}"}
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
@@ -162,7 +156,7 @@ Spring Barley"- American Malting barley Association Grant Award \hfill July 2021
 
 -   Spoke at various summer annual field days to discuss barley breeding and organic naked barley to the general community
 
--   Brief article titled growing malting barley amid climate change  [AMBA](https://ambainc.org/growing-malting-barley-amid-climate-change-the-challenge-of-pre-harvest-sprouting/)
+-   Brief article titled growing malting barley amid climate change  [AMBA](https://ambainc.org/news-details.php?id=63d014dfba04a)
 
 -   Guest on the ["All Things Agriculture Podcast"](https://www.youtube.com/watch?v=Dw_8N39wyBI) with Eric Carey 
 
