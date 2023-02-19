@@ -55,7 +55,7 @@ photobigness: 1.75cm
 
 -   Measure weed components of weed competitive ability in organic spring baked barley variety trials by using collected field trait phenotypes and UAV imaging to measure barley vigor and growth
 
--   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United Sates
+-   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United States
 
 -   Genetic by environmental analysis of winter organic naked barley variety trials across 3 years and 3 locations throughout the Northern United States
 
@@ -63,7 +63,12 @@ photobigness: 1.75cm
 
 -   Evaluation of malting quality of a subset of winter malting barley lines at the USDA ARS Cereal Crops Research Unit in Madison, WI in December 2021 and January-February 2022
 
-# Awards Received
+# Awards and Grants Received
+
+-   USDA OREI grants program 2017-51300-26809, 2020-51300-32179 and 2020-51300-32379. "Developing Multi-use NakedBarley for Organic Systems"
+
+-   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and
+Spring Barley"- American Malting barley Association Grant Award \hfill July 2021-June 2022
 
 -   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August 2022
 
@@ -72,11 +77,11 @@ photobigness: 1.75cm
 -   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
 :::
 
-::: {.column width="2%" data-latex="{0.02\\textwidth}"}
- <!-- an empty div with an empty character to serve as a column sep -->
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
+ <!-- an empty div with an empty character to serve as a column esp -->
 :::
 
-::: {.column width="50%" data-latex="{0.50\\textwidth}"}
+::: {.column width="50%" data-latex="{0.50\textwidth}"}
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, using phenotype and genotype data for selection decisions
@@ -119,7 +124,7 @@ photobigness: 1.75cm
 \newpage
 
 ::: columns
-::: {.column width="48%" data-latex="{0.48\\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Professional Societies
 
 -   Tri societies CSSA(Crop Science Society of America) student member \hfill 2019-present
@@ -143,22 +148,25 @@ photobigness: 1.75cm
 4.  Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 :::
 
-::: {.column width="2%" data-latex="{0.02\\textwidth}"}
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
-::: {.column width="48%" data-latex="{0.48\\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Outreach
+-   Interview with the Craft Maltsters guild on [Breeding Malting Barley for New York State](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/) \hfill February 2022
+
+-   Gave a presentation on winter malting barley breeding progress for New York at the New York State Empire malting barley summit at the Culinary Institute of America, Hyde Park, NY \hfill December 2022
 
 -   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
 
--   Spoke at various summer annual field days to dicusss barley breeding and organic naked barley to the general community
+-   Spoke at various summer annual field days to discuss barley breeding and organic naked barley to the general community
 
--   Brief article titled growing malting barley amid climate change <https://ambainc.org/growing-malting-barley-amid-climate-change-the-challenge-of-pre-harvest-sprouting/>
+-   Brief article titled growing malting barley amid climate change  [AMBA](https://ambainc.org/growing-malting-barley-amid-climate-change-the-challenge-of-pre-harvest-sprouting/)
 
--   Guest on the "All Things Agriculture Podcast" with Eric Carey <https://www.youtube.com/watch?v=Dw_8N39wyBI>
+-   Guest on the ["All Things Agriculture Podcast"](https://www.youtube.com/watch?v=Dw_8N39wyBI) with Eric Carey 
 
--   Presented eOrganic Webinar Titled "Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits" April 2021 <https://eorganic.info/node/23566>
+-   Presented eOrganic Webinar Titled ["Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits"](https://eorganic.info/node/23566) April 2021 
 
 # Research and Conference presentations
 
