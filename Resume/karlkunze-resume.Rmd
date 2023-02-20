@@ -1,13 +1,13 @@
 ---
 title: "Résumé"
 author: "Karl Kunze"
-date: "12/07/2022"
+date: "02/20/2023"
 output: 
   pdf_document:
-    latex_engine: pdflatex
+    latex_engine: xelatex
     keep_tex: true
-    template: svm-latex-resume.tex
-
+    dev: cairo_pdf
+    template: template.tex
 orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
@@ -25,7 +25,7 @@ mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 11pt
+fontsize: 10pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
@@ -37,7 +37,7 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 ::: columns
-::: {.column width="50%" data-latex="{0.50\textwidth}"}
+::: {.column width="60%" data-latex="{0.60\textwidth}"}
 # Education
 
 ## Undergraduate
