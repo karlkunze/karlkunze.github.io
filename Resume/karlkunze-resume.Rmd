@@ -25,7 +25,7 @@ mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 10pt
+fontsize: 11pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
@@ -37,7 +37,8 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 ::: columns
-::: {.column width="60%" data-latex="{0.60\textwidth}"}
+::: {.column width="44%" data-latex="{0.44\textwidth}"}
+
 # Education
 
 ## Undergraduate
@@ -48,71 +49,89 @@ photobigness: 1.75cm
 
 -   PhD Candidate, advisor Dr. Mark Sorrells, Cornell University Graduate School, Field of Plant Breeding and Genetics, minor in Plant Pathology and Food Science
                                                                                               \hfill 2017-present
+                                                                                              
+# Leadership Activities and Professional Services
 
+-   Student representative of the CSSA(Crop Science Society of America) executive board \hfill 2022-2023
+
+-   Representative of the Tri-socities science policy committee \hfill 2022-present
+-   Local Graduate Student Liaison member for the National Association of Plant Breeders (NAPB) Graduate Student Working Group  \hfill Fall 2020- August 2021
+-   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-Professional Development Committee Member \hfill 2020-2021
+
+-   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-President  \hfill 2018-2019
+
+-   Corteva Symposium organizing committee member  \hfill April 2019
+
+-   Graduate Student Representative on the Cornell Plant Breeding Faculty Search Committee \hfill Spring 2019                                                                                              
+
+
+# Awards Received
+
+-   Cornell Plant Breeding and Genetics Munger-Murphy Award 
+\hfill August 2022
+
+-   Gerald O. Mott Award Recipient 
+\hfill March 2022
+
+-   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award
+\hfill December 2018
+:::
+
+::: {.column width="2%" data-latex="{0.02\textwidth}"}
+ <!-- an empty div with an empty character to serve as a column sep -->
+ \ 
+:::
+
+::: {.column width="56%" data-latex="{0.56\textwidth}"}
 # Experience
 
 ## Research Projects
 
 -   Measure weed components of weed competitive ability in organic spring baked barley variety trials by using collected field trait phenotypes and UAV imaging to measure barley vigor and growth
 
+
 -   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United Sates
+
 
 -   Genetic by environmental analysis of winter organic naked barley variety trials across 3 years and 3 locations throughout the Northern United States
 
+
 -   Evaluation of dormancy and pre-harvest sprouting across a double haploid winter malting barley breeding population
+
 
 -   Evaluation of malting quality of a subset of winter malting barley lines at the USDA ARS Cereal Crops Research Unit in Madison, WI in December 2021 and January-February 2022
 
-# Awards Received
-
--   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August 2022
-
--   Gerald O. Mott Award Recipient \hfill March 2022
-
--   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
-:::
-
-::: {.column width="2%" data-latex="{0.02\textwidth}"}
- <!-- an empty div with an empty character to serve as a column sep -->
-:::
-
-::: {.column width="50%" data-latex="{0.50\textwidth}"}
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, using phenotype and genotype data for selection decisions
 
+
 -   Highly experienced in processing, analysis, organization, and experimental design of field trials of the Cornell small grains breeding program
+
 
 -   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficency in using git version control
 
+
 -   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker
 
--   Certified FAA UAS Part 107 Remote Pilots License. \hfill 2019-present
 
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations(conducted over 100 flights) \hfill 2019-present
+-   Certified FAA UAS Part 107 Remote Pilots License. 
+\ \hfill 2019-present
+
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations(conducted over 100 flights) 
+\ \hfill 2019-present
 
 -   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
-
+\ 
 -   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
-
+\ 
 -   Demonstrated ability to work in multi-institutional collaborative projects
+\ 
+-   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich 
+\ 
+\hfill October 2019
 
--   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
 
-# Professional Services
-
--   Student representative of the CSSA(Crop Science Society of America) executive board \hfill 2022-2023
-
--   Representative of the Tri-socities science policy committee                                                                                       \hfill                             2022-present
-
--   Local Graduate Student Liaison member for the National Association of Plant Breeders (NAPB) Graduate Student Working Group \hfill Fall 2020- August 2021
-
--   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-Professional Development Committee Member \hfill 2020-2021
--   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-President  \hfill 2018-2019
-
--   Corteva Symposium organizing committee member \hfill April 2019
-
--   Graduate Student Representative on the Cornell Plant Breeding Faculty Search Committee \hfill Spring 2019
 :::
 :::
 
@@ -144,6 +163,7 @@ photobigness: 1.75cm
 :::
 
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
+\ 
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 

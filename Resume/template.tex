@@ -11,6 +11,7 @@ $endif$
 $endif$
 $if(CJKmainfont)$
 \PassOptionsToPackage{space}{xeCJK}
+\hyphenchar\font=-1
 $endif$
 %
 \documentclass[
@@ -30,6 +31,7 @@ $endfor$
 
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+\hyphenchar\font=-1
 $else$
 \usepackage{lmodern}
 $endif$
@@ -56,12 +58,15 @@ $endif$
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 $if(mainfont)$
   \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+  \hyphenchar\font=-1
 $endif$
 $if(sansfont)$
   \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
+  \hyphenchar\font=-1
 $endif$
 $if(monofont)$
   \setmonofont[$for(monofontoptions)$$monofontoptions$$sep$,$endfor$]{$monofont$}
+  \hyphenchar\font=-1
 $endif$
 $for(fontfamilies)$
   \newfontfamily{$fontfamilies.name$}[$for(fontfamilies.options)$$fontfamilies.options$$sep$,$endfor$]{$fontfamilies.font$}
@@ -76,6 +81,7 @@ $if(mathspec)$
 $else$
   \setmathfont[$for(mathfontoptions)$$mathfontoptions$$sep$,$endfor$]{$mathfont$}
 $endif$
+
 $endif$
 $if(CJKmainfont)$
   \ifxetex
