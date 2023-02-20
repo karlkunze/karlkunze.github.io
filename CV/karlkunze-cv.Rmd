@@ -12,7 +12,7 @@ email: khk44@cornell.edu
 linkedin: "karlkunze"
 github: karlkunze
 twitter: kunzx37
-phone: "+1-585-813-9335"
+#phone: "+1-585-813-9335"
 web: karlkunze.github.io
 updated: no
 keywords: Plant Breeding, Genetics, Quantative Genetics, Experimental Design, Barley
@@ -93,13 +93,15 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 
 # Publications \orcidlink{0000-0003-4548-1808}
 
-1.  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
+1. Massman, C., Meints, B., Hernandez, J., Kunze, K., Smith, K. P., Sorrells, M. E., ... & Gutierrez, L. Genomic prediction of threshability in naked barley. Crop Science. <https://doi.org/10.1002/csc2.20907>
 
-2. Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,& Sorrells, M. E. (2022). Effect of Genotype and Environment on Food-Related Traits of Organic Winter Naked Barleys. *Foods*, *11*(17),2642.<https://doi.org/10.3390/foods11172642>
+2.  Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
 
-3.  Chris Massman, Brigid Meints, Javier Hernandez, Karl Kunze, Patrick M.Hayes, Mark E. Sorrells, Kevin P. Smith, Julie C. Dawson, and Lucia Gutierrez. Crop Science(2022) Genetic Characterization of Agronomic Traits and Grain Threshability for Organic Naked Barley in the Northern U.S. <https://doi.org/10.1002/csc2.20686>
+3. Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,& Sorrells, M. E. (2022). Effect of Genotype and Environment on Food-Related Traits of Organic Winter Naked Barleys. *Foods*, *11*(17),2642.<https://doi.org/10.3390/foods11172642>
 
-4. Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
+4.  Chris Massman, Brigid Meints, Javier Hernandez, Karl Kunze, Patrick M.Hayes, Mark E. Sorrells, Kevin P. Smith, Julie C. Dawson, and Lucia Gutierrez. Crop Science(2022) Genetic Characterization of Agronomic Traits and Grain Threshability for Organic Naked Barley in the Northern U.S. <https://doi.org/10.1002/csc2.20686>
+
+5. Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 
 # Professional Services 
 -   Student representative of the CSSA(Crop Science Society of America) executive board     \hfill 2022-2023
@@ -134,7 +136,11 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 
 # Presentations and Conferences attended
 
+<<<<<<< HEAD
 - Presented research and updates on winter malting barley variety development at the 5th annual Empire State Malting Barley Summit at the Culinary Institute of America December 2022, Hyde Park, New York
+=======
+-Presented the progress of winter malting barley breeding in New York at the New York State Empire Malting Barley summit at the Cullinary Institute of America Hyde Park, NY \hfill December 2022
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 
 - Research Presentations titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA,ASA and SSSA Tri-society annual meeting November 2022, Baltimore, Maryland
 

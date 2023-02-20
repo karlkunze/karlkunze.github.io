@@ -12,7 +12,7 @@ orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
-phone: 585-813-9335
+#phone: 585-813-9335
 location: "422 Bradfield Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
@@ -25,7 +25,7 @@ mainfont: cochineal
 sansfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
-fontsize: 11pt
+fontsize: 10pt
 
 includephoto: FALSE
 myphoto: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
@@ -37,8 +37,12 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 ::: columns
+<<<<<<< HEAD
 ::: {.column width="44%" data-latex="{0.44\textwidth}"}
 
+=======
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 # Education
 
 ## Undergraduate
@@ -89,8 +93,12 @@ photobigness: 1.75cm
 
 -   Measure weed components of weed competitive ability in organic spring baked barley variety trials by using collected field trait phenotypes and UAV imaging to measure barley vigor and growth
 
+<<<<<<< HEAD
 
 -   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United Sates
+=======
+-   Genome wide association studies of barley disease resistance across 18 location by year field locations throughout the Northern United States
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 
 
 -   Genetic by environmental analysis of winter organic naked barley variety trials across 3 years and 3 locations throughout the Northern United States
@@ -101,6 +109,28 @@ photobigness: 1.75cm
 
 -   Evaluation of malting quality of a subset of winter malting barley lines at the USDA ARS Cereal Crops Research Unit in Madison, WI in December 2021 and January-February 2022
 
+<<<<<<< HEAD
+=======
+# Awards and Grants Received
+
+-   USDA OREI grants program 2017-51300-26809, 2020-51300-32179 and 2020-51300-32379. "Developing Multi-use Naked Barley for Organic Systems"
+
+-   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and
+Spring Barley"- American Malting barley Association Grant Award \hfill July 2021-June 2022
+
+-   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August 2022
+
+-   Gerald O. Mott Award Recipient \hfill March 2022
+
+-   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
+:::
+
+::: {.column width="2%" data-latex="{0.04\textwidth}"}
+ <!-- an empty div with an empty character to serve as a column esp -->
+:::
+
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including recording field phenotypes, using phenotype and genotype data for selection decisions
@@ -108,12 +138,17 @@ photobigness: 1.75cm
 
 -   Highly experienced in processing, analysis, organization, and experimental design of field trials of the Cornell small grains breeding program
 
+<<<<<<< HEAD
 
 -   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficency in using git version control
+=======
+-   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 
 
 -   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker
 
+<<<<<<< HEAD
 
 -   Certified FAA UAS Part 107 Remote Pilots License. 
 \ \hfill 2019-present
@@ -125,13 +160,38 @@ photobigness: 1.75cm
 \ 
 -   Basic proficiency related to chemistry malting quality analysis for alpha-amylase, diastatic power, beta-glucan, soluble wort protein and free amino nitrogen
 \ 
+=======
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations(conducted over 100 flights)  &   Certified FAA UAS Part 107 Remote Pilots License. \hfill 2019-present
+
+-   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+
+-   Basic proficiency related to chemistry for malting quality analysis 
+
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 -   Demonstrated ability to work in multi-institutional collaborative projects
 \ 
 -   Participated in an Interational exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich 
 \ 
 \hfill October 2019
 
+<<<<<<< HEAD
 
+=======
+-   Participated in an International exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
+
+# Leadership Activities and Professional Services
+
+-   Student representative of the CSSA(Crop Science Society of America) executive board \hfill 2022-2023
+
+-   Local Graduate Student Liaison member for the National Association of Plant Breeders (NAPB) Graduate Student Working Group \hfill Fall 2020- August 2021
+
+-   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-Professional Development Committee Member \hfill 2020-2021
+-   Cornell Plant Breeding and Genetics Graduate Student Association Synapsis-President  \hfill 2018-2019
+
+-   Corteva Symposium organizing committee member \hfill April 2019
+
+-   Graduate Student Representative on the Cornell Plant Breeding Faculty Search Committee \hfill Spring 2019
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
 :::
 :::
 
@@ -147,8 +207,6 @@ photobigness: 1.75cm
 
 -   New York State Agriculture Society member \hfill 2017-present
 
--   Student Organic Seed Society member \hfill 2020-2021
-
 -   Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
 
 # Publications
@@ -162,23 +220,30 @@ photobigness: 1.75cm
 4.  Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 :::
 
+<<<<<<< HEAD
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
 \ 
+=======
+::: {.column width="4%" data-latex="{0.04\textwidth}"}
+>>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
  <!-- an empty div with an empty character to serve as a column sep -->
 :::
 
 ::: {.column width="48%" data-latex="{0.48\textwidth}"}
 # Outreach
+-   Interview with the Craft Maltsters guild on [Breeding Malting Barley for New York State](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/) \hfill February 2022
+
+-   Gave a presentation on winter malting barley breeding progress for New York at the New York State Empire malting barley summit at the Culinary Institute of America, Hyde Park, NY \hfill December 2022
 
 -   Co-led a weekly graduate student journal club with Will Stafstrom in the Spring 2022 semester. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science
 
--   Spoke at various summer annual field days to dicusss barley breeding and organic naked barley to the general community
+-   Spoke at various summer annual field days to discuss barley breeding and organic naked barley to the general community
 
--   Brief article titled growing malting barley amid climate change <https://ambainc.org/growing-malting-barley-amid-climate-change-the-challenge-of-pre-harvest-sprouting/>
+-   Brief article titled growing malting barley amid climate change  [AMBA](https://ambainc.org/news-details.php?id=63d014dfba04a)
 
--   Guest on the "All Things Agriculture Podcast" with Eric Carey <https://www.youtube.com/watch?v=Dw_8N39wyBI>
+-   Guest on the ["All Things Agriculture Podcast"](https://www.youtube.com/watch?v=Dw_8N39wyBI) with Eric Carey 
 
--   Presented eOrganic Webinar Titled "Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits" April 2021 <https://eorganic.info/node/23566>
+-   Presented eOrganic Webinar Titled ["Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits"](https://eorganic.info/node/23566) April 2021 
 
 # Research and Conference presentations
 
