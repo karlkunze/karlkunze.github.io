@@ -27,15 +27,23 @@
 
 * **[Email](mailto:khk44@cornell.edu)**  
 
-* **[Personal Website(in progress)](https://karlkunze.io)**
+* **[LinkedIn](https://www.linkedin.com/in/karlkunze/)** 
 
-* **[Twitter](https://twitter.com/kunzx37)**  
+* **[Twitter](https://twitter.com/kunzx37)** 
+
+* **[AGR Alumni page](https://cornell.brightcrowd.com/agr/karl-kunze)**
 
 * **[GitHub](https://github.com/karlkunze)**  
 
-* **[LinkedIn](https://www.linkedin.com/in/karlkunze/)** 
+* **[Personal Website(in progress)](https://karlkunze.io)**
 
-* **[AGR Alumni page](https://cornell.brightcrowd.com/agr/karl-kunze)**
+ 
+
+
+
+
+
+
 
 <span style="color: white;"> Karl Kunze </span>  
 
