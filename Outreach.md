@@ -2,9 +2,9 @@
 
 ## Outreach
 
-Febuary 2023- Interview with the Craft Maltsters guild in their Q1 2023 newsletter on research of winter malting barley for New York. [link](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/)
+Febuary 2023- Interview with the Craft Maltsters guild in their Q1 2023 newsletter on research of winter malting barley for New York. [Field to Bench](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/)
 
-August 2022- Article about the challenges of pre-harvest sprouting in NY featured on[American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a) 
+August 2022- Article about the challenges of pre-harvest sprouting in NY featured on [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a) 
 
 April 2021- Guest on "All Things Agriculture Podcast" with Eric Carey
 
