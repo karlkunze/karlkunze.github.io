@@ -5,11 +5,11 @@
 
 ### **View [resume](./Resume/karlkunze-resume.pdf) or [CV](./CV/karlkunze-cv.pdf)**
 
-###Education
+### Education
 
-Primary Education:Wyoming Central School and Alexander Central High School- Wyoming, NY and Alexander, NY- Graduation June 2013
+Primary: Wyoming Central School and Alexander Central High School- Wyoming, NY and Alexander, NY- Graduation June 2013
 
-Undergraduate: Cornell University, College of Agriculture and Life Sciences, Bachelor of Science in Plant Sciences, concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences - August 2013-May 2017
+Undergraduate: Cornell University, College of Agriculture and Life Sciences, Bachelor of Science in Plant Sciences, concentration in Plant Breeding and Genetics, minor in Business for the Life Sciences - August 2013-May 2017
 
 Student Exchange Program: Wageningen University for the Life Sciences Wageningen, Netherlands January-June 2016
 
