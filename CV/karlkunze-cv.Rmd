@@ -11,8 +11,8 @@ fontawesome: yes
 email: khk44@cornell.edu
 linkedin: "karlkunze"
 github: karlkunze
-twitter: kunzx37
-#phone: "+1-585-813-9335"
+twitter: @kunzx37
+#phone:
 web: karlkunze.github.io
 updated: no
 keywords: Plant Breeding, Genetics, Quantative Genetics, Experimental Design, Barley
