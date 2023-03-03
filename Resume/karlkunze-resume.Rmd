@@ -12,7 +12,7 @@ orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
-#phone: 585-813-9335
+#phone: 
 location: "422 Bradfield Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
