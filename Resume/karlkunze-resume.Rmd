@@ -36,7 +36,7 @@ photobigness: 1.75cm
 
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
-
+:::::: {.columns}
 ::: {.column width="44%" data-latex="{0.44\textwidth}"}
 
 # Education
@@ -79,13 +79,11 @@ photobigness: 1.75cm
 -   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
 
 :::
-
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
  \ 
 :::
-
-::: {.column width="48%" data-latex="{0.48\textwidth}"}
+::::::  {.column width="48%" data-latex="{0.48\textwidth}"}
 # Experience
 
 ## Research Projects
@@ -120,9 +118,11 @@ photobigness: 1.75cm
 -   Participated in an International exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
 
 :::
+:::::
+
 \newpage
 
-::: columns
+:::::: {.columns}
 ::: {.column width="44%" data-latex="{0.44\textwidth}"}
 
 # Professional Societies
@@ -148,7 +148,6 @@ photobigness: 1.75cm
 
 5. Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 :::
-
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
 \ 
 
