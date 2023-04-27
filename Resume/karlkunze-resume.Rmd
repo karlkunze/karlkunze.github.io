@@ -52,7 +52,7 @@ photobigness: 1.75cm
                                                                                               
 # Leadership Activities and Professional Services
 
--   Student representative of the Crop Science Society of America(CSSA) executive board \hfill 2022-2023
+-   Student representative of the Crop Science Society of America(CSSA) executive board \hfill 2022-present
 
 -   Representative of the CSSA science policy committee \hfill 2022-present
 
@@ -68,9 +68,9 @@ photobigness: 1.75cm
 
 # Awards and Grants Received
 
--   USDA OREI grants program 2017-51300-26809 and 2020-51300-32179 "Developing Multi-use Naked Barley for Organic Systems"
+- Graduate student of USDA OREI grants program 2017-51300-26809 and 2020-51300-32179 "Developing Multi-use Naked Barley for Organic Systems approx. $3,000,000"
 
--   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley"- American Malting barley Association Grant Award \hfill July 2021-June 2022
+-   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley award of $11,500"- American Malting barley Association Grant Award \hfill July 2021-June 2022
 
 -   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August 2022
 
@@ -88,12 +88,12 @@ photobigness: 1.75cm
 
 ## Research Projects
 
--   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth
+-   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
 
 -   Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United Sates
 
 -   Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
--   Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population
+-   Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population consisting of 450 lines over two location and two years. A total of 5 timepoint assays were conducted in 2020 and 8 timepoint assays conducted in 2021.
 
 -   Evaluation of malting quality at the USDA ARS Cereal Crops Research Unit in Madison, WI \                       \hfill December 2021 and January-February 2022
 
