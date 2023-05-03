@@ -1,0 +1,163 @@
+---
+title: "Karl Kunze"
+author: Karl Kunze
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: FALSE
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> khk44@cornell.edu
+- <i class="fa fa-github"></i> [github.com/karlkunze](https://github.com/karlkunze)
+- <i class="fa fa-phone"></i> +1 000-000-0000
+- <i class="fa-brands fa-orcid"></i> [0000-0003-4548-1808](https://orcid.org/my-orcid?orcid=0000-0003-4548-1808)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+-   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes and integrating genetic data to make selection decision and publish original research
+
+-   Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
+
+-   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
+
+-   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker.
+
+-   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.\     \hfill    2019-present
+
+-   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+
+-   Basic proficiency related to chemistry for malting quality analysis 
+
+-   Demonstrated ability to work in multi-institutional collaborative projects
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Karl Kunze {#title}
+--------------------------------------------------------------------------------
+
+### TEst
+
+Test
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Cornell University, Gradudate School
+
+Field of Plant Breeding and Genetics
+
+Ithaca, NY
+
+2017 - 2023
+
+
+### Cornell University, College of Agriculture and Life Sciences
+
+B.S. Plant Sciences
+Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
+
+Ithaca, NY
+
+2013 - 2017
+
+Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
+   
+   Ithaca, NY
+   
+   2017 - 2020
+
+  Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United Sates
+  
+  Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
+   
+  Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population consisting of 450 lines over two location and two years. A total of 5 timepoint assays were conducted in 2020 and 8 timepoint assays conducted in 2021.
+
+
+Professional Societies {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+  Crop Science Society of America(CSSA) student member \hfill 2019-present
+
+  National Association of Plant Breeders (NAPB) student member \hfill 2020-present
+
+  New York State Agriculture Society member \hfill 2017-present
+
+  Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
+
+  Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+/Qingdao, China
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
