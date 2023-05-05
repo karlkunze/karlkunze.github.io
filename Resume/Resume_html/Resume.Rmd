@@ -72,7 +72,7 @@ Field of Plant Breeding and Genetics
 
 Ithaca, NY
 
-2017 - 2023
+2023
 
 
 ### Cornell University, College of Agriculture and Life Sciences
@@ -82,7 +82,7 @@ Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sci
 
 Ithaca, NY
 
-2013 - 2017
+2017
 
 Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
 
@@ -94,7 +94,7 @@ Research Experience {data-icon=laptop}
 
    Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
    
-   Ithaca, NY
+   N/A
    
    2017 - 2020
 
