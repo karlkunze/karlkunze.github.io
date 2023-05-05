@@ -90,7 +90,7 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### 
 
    Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
    
