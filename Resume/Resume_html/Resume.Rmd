@@ -30,17 +30,19 @@ Skills {#skills}
 
 -   Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
 
--   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
+- Field data collection, including agronomic phenotypes, aerial imaging collection, seed germination and malting quality
 
--   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker.
+- Highly proficient in data analysis to integrate phenotypic and genotypic data for mapping, genomic prediction and section decisions
 
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.\     \hfill    2019-present
+- Five years of experience managing a novel winter malting breeding program and organic naked barley program for New York State
 
--   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+- Demonstrated collaboration of working with multiple research institutions for multi collaborative national grant projects
 
--   Basic proficiency related to chemistry for malting quality analysis 
+- Highly proficient in R, moderate proficiency in command line and unix shell scripting, and minor proficiency in python.
 
--   Demonstrated ability to work in multi-institutional collaborative projects
+- Demonstrated leadership activities including crop science society of America and graduate student organizations at Cornell.
+
+
 
 
 Disclaimer {#disclaimer}
