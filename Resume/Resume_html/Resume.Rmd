@@ -4,6 +4,9 @@ author: Karl Kunze
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: 
+    - override.css
+    - resume
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: FALSE
 # uncomment this line to produce HTML and PDF in RStudio:
@@ -12,8 +15,6 @@ knit: pagedown::chrome_print
 
 Aside
 ================================================================================
-
-
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -26,29 +27,24 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
--   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes and integrating genetic data to make selection decision and publish original research
+Plant Breeding, Experimental Design, breeding program management, variety selection and improvement 
 
--   Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
+Experience in agronomic, disease and grain quality phenotpic data collcetion
 
-- Field data collection, including agronomic phenotypes, aerial imaging collection, seed germination and malting quality
+Genomic prediction, genotype by environment analysis, genome wide association studies, spatial correction, and aerial imaging processing.
 
-- Highly proficient in data analysis to integrate phenotypic and genotypic data for mapping, genomic prediction and section decisions
+Highly proficient in R, microsoft office applications and git version control
 
-- Five years of experience managing a novel winter malting breeding program and organic naked barley program for New York State
+Moderate proficiency in unix shell scripting and command line
 
-- Demonstrated collaboration of working with multiple research institutions for multi collaborative national grant projects
+Limited familiarity with python, SQL, docker, latex, css and html.
 
-- Highly proficient in R, moderate proficiency in command line and unix shell scripting, and minor proficiency in python.
-
-- Demonstrated leadership activities including crop science society of America and graduate student organizations at Cornell.
-
-
-
-
-Disclaimer {#disclaimer}
+Languages
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+English
+
+Basic Proficiency in German(A2)
 
 Last updated on `r Sys.Date()`.
 
@@ -60,7 +56,7 @@ Main
 Karl Kunze {#title}
 --------------------------------------------------------------------------------
 
-### TEst
+### To seek a position in plant breeding and genetics
 
 Test
 
@@ -70,12 +66,13 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Cornell University, Gradudate School
 
-Field of Plant Breeding and Genetics
+Field of Plant Breeding and Genetics, advisor Dr. Mark Sorrells
 
 Ithaca, NY
 
-2023
+2017 - 2023
 
+Dissertation: Genomic and phenotypic characterization of barley breeding in New York state
 
 ### Cornell University, College of Agriculture and Life Sciences
 
@@ -84,53 +81,86 @@ Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sci
 
 Ithaca, NY
 
-2017
+2013 - 2017
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
 
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### 
-
-   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
+Management of a novel winter malting barley breeding program for the New York State Environment
    
-   N/A
+   Ithaca, NY
    
-   2017 - 2020
+   2017 - 2023
 
-  Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United Sates
+Advanced an initial double haploid population of 500 lines and 800 F4 recombinant inbred lines for selection based on agronomic traits, pre-harvest sprouting and seed dormancy. Currently we have 200 recombinant inbred lines and 200 double haploid lines in preliminary yield trials and 25 advanced double haploid lines in a second year of regional test trials.
   
-  Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
+Conducted 5 to 8 time series seed dormancy tests of 500 winter/facultative  double haploid lines across three locations and two growing seasons. Samples were harvested adjusting for physiological maturity and frozen at identical post maturity states until seed dormancy tests were conducted.
+  
+Analyzed 240 sub samples of winter double haploid barley over two timepoints using micro malting techniques to determine how malting quality corresponds to dormancy loss
+  
+Used linear mixed models, field trial design, spatial correction and genomic data to make predictions and selection decisions for advancement.
+  
+### Organic Multi-use naked barley for New York and the Northern United States
    
-  Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population consisting of 450 lines over two location and two years. A total of 5 timepoint assays were conducted in 2020 and 8 timepoint assays conducted in 2021.
+   Multi institutional project to characterize and develop naked barley for organic US systems
+   
+  United States
+  
+  2017 - 2022
 
+Advanced a small population of covered by naked and naked by naked winter barley crosses to develop a naked barley variety adapted to New York conditions.
+  
+Performed genotype by environment analysis for 8 naked barley trials across the northern United States
+  
+Performed a genome wide association analysis of 250 diverse lines across 13 environments for foliar disease resistance in natural field organic conditions
+  
+Used aerial imaging of a spring naked barley variety trial over two years to quantify barley growth over time as a precursor for competition with weeds.
+  
+Initialized a combined nested association population using three common parents across all collaborating institution and five parents specific to NY conditions.
+  
+Leadership Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### Graduate Student representative for the board of the Crop Science Society of America
 
+Serve as a liason between the CSSA leadership and the graduate student members
+
+N/A
+
+2021 - 2023
+
+  
 Professional Societies {data-icon=suitcase}
+--------------------------------------------------------------------------------  
+
+Crop Science Society of America(CSSA)
+  
+National Association of Plant Breeders (NAPB)
+
+Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis
+
+New York State Agriculture Society
+
+Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+
+Skills {data-icon=computer}
 --------------------------------------------------------------------------------
 
-  Crop Science Society of America(CSSA) student member \hfill 2019-present
+Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
 
-  National Association of Plant Breeders (NAPB) student member \hfill 2020-present
+Field data collection, including agronomic phenotypes, aerial imaging collection, seed germination and malting quality
 
-  New York State Agriculture Society member \hfill 2017-present
+Highly proficient in data analysis to integrate phenotypic and genotypic data for mapping, genomic prediction and section decisions
 
-  Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
+Five years of experience managing a novel winter malting breeding program and organic naked barley program for New York State
 
-  Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+Demonstrated collaboration of working with multiple research institutions for multi collaborative national grant projects
 
+Highly proficient in R, moderate proficiency in command line and unix shell scripting, and minor proficiency in python.
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
+Demonstrated leadership activities including crop science society of America and graduate student organizations at Cornell.
 
 ### Computational Biology and Bioinformatics.
 
@@ -141,20 +171,20 @@ AL, USA
 2016 - 2017
 
 
-Selected Publications and Posters {data-icon=file}
+Selected Publications and Presentations {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley"
 
-Poster for 2013 International Conference of Genomics
+Presentation for the 43rd Barley Improvement Conference and Tri -Societies 
 
-/Qingdao, China
+UC Davis, CA & Baltimore, MD, United States
 
-2014
+2022
 
-**Yu L**, Chen B, Zhang Z.
+**Kunze K**, Rooney T., Sweeney D., Sorrells M.
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+### .
 
 J Cell Sci. 2016 May 15;129(10):2075-84.
 

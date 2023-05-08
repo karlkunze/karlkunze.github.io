@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.2.20)  2 MAY 2023 20:41
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.2.20)  8 MAY 2023 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1208,6 +1208,8 @@ LaTeX Font Info:    Font shape `TU/cochineal(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 167.
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 167.
+LaTeX Font Info:    Font shape `TU/cochineal(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 173.
 
 Underfull \hbox (badness 3977) in paragraph at lines 199--203
 []\TU/cochineal(0)/m/n/10.95 Local Graduate Student Liaison member for the
@@ -1249,8 +1251,8 @@ Underfull \hbox (badness 3989) in paragraph at lines 219--223
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 223--228
-\TU/cochineal(0)/m/n/10.95 and Spring Barley award of $11,500”- American
+Underfull \hbox (badness 3058) in paragraph at lines 223--228
+\TU/cochineal(0)/m/n/10.95 and Spring Barley”, award of $11,500- American
  []
 
 
@@ -1360,8 +1362,6 @@ Underfull \hbox (badness 1953) in paragraph at lines 346--351
 \TU/cochineal(0)/m/n/10.95 effect heterogeneity is associated with a large
  []
 
-LaTeX Font Info:    Font shape `TU/cochineal(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 353.
 
 Underfull \hbox (badness 10000) in paragraph at lines 356--362
 []\TU/cochineal(0)/m/n/10.95 Chris Massman, Brigid Meints, Javier
