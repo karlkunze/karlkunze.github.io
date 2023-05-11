@@ -15,6 +15,7 @@ knit: pagedown::chrome_print
 
 Aside
 ================================================================================
+Last updated on `r Sys.Date()`.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -29,7 +30,7 @@ Skills {#skills}
 
 Plant Breeding, Experimental Design, breeding program management, variety selection and improvement 
 
-Experience in agronomic, disease and grain quality phenotpic data collcetion
+Experience in agronomic, disease and grain quality phenotypic data collection
 
 Genomic prediction, genotype by environment analysis, genome wide association studies, spatial correction, and aerial imaging processing.
 
@@ -46,14 +47,14 @@ English
 
 Basic Proficiency in German(A2)
 
-Last updated on `r Sys.Date()`.
+
 
 
 
 Main
 ================================================================================
 
-Karl Kunze {#title}
+Karl Hans Kunze PhD {#title}
 --------------------------------------------------------------------------------
 
 ### To seek a position in plant breeding and genetics
@@ -72,18 +73,19 @@ Ithaca, NY
 
 2017 - 2023
 
+Minors in Plant Pathology and Food Science
+
 Dissertation: Genomic and phenotypic characterization of barley breeding in New York state
 
 ### Cornell University, College of Agriculture and Life Sciences
 
 B.S. Plant Sciences
-Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
 
 Ithaca, NY
 
 2013 - 2017
 
-
+Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -95,13 +97,13 @@ Management of a novel winter malting barley breeding program for the New York St
    
    2017 - 2023
 
-Advanced an initial double haploid population of 500 lines and 800 F4 recombinant inbred lines for selection based on agronomic traits, pre-harvest sprouting and seed dormancy. Currently we have 200 recombinant inbred lines and 200 double haploid lines in preliminary yield trials and 25 advanced double haploid lines in a second year of regional test trials.
+Advanced a double haploid and recombinant inbred population starting with crosses in 2017. We currently have 25 lines being tested for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 Recombinant Inbred lines.
   
-Conducted 5 to 8 time series seed dormancy tests of 500 winter/facultative  double haploid lines across three locations and two growing seasons. Samples were harvested adjusting for physiological maturity and frozen at identical post maturity states until seed dormancy tests were conducted.
+Conducted seed dormancy assays and genome wide association studies of 450 lines at two locations over two years. 5 timepoints were measured in 2020 and 8 timepoints measured in 2021. 
   
-Analyzed 240 sub samples of winter double haploid barley over two timepoints using micro malting techniques to determine how malting quality corresponds to dormancy loss
+Micromalted 240 winter barley  over two timepoints at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions 
   
-Used linear mixed models, field trial design, spatial correction and genomic data to make predictions and selection decisions for advancement.
+Used genomic prediction, linear mixed models, spatial correction and genome wide association studies to advance lines and inform selection decisions
   
 ### Organic Multi-use naked barley for New York and the Northern United States
    
@@ -113,7 +115,7 @@ Used linear mixed models, field trial design, spatial correction and genomic dat
 
 Advanced a small population of covered by naked and naked by naked winter barley crosses to develop a naked barley variety adapted to New York conditions.
   
-Performed genotype by environment analysis for 8 naked barley trials across the northern United States
+Performed genotype by environment analysis for eight naked barley trials across the northern United States
   
 Performed a genome wide association analysis of 250 diverse lines across 13 environments for foliar disease resistance in natural field organic conditions
   
@@ -125,13 +127,76 @@ Leadership Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 ### Graduate Student representative for the board of the Crop Science Society of America
 
-Serve as a liason between the CSSA leadership and the graduate student members
+Serve as a liason between the CSSA leadership and the graduate student members of the society
+Currently serve on the tri society science policy committee
 
 N/A
 
 2021 - 2023
 
-  
+### Local graduate student liason for National Associaion of Plant Breeders graduate student working group
+
+Coordinated graduate student working group to organize virtual events and connect to personel at Cornell University for the virtual 2021 NAPB meeting
+
+N/A
+
+2020 - 2021
+
+
+
+### Cornell Plant Breeding and Genetics Graduate Student Association Professional Development Committee
+
+Organized 4 virtual seminar chat series with graduate alumni of the Plant Breeding and Genetics program
+Invited speakers from various fields including, industry, academia, start ups and government research organizations
+
+
+N/A
+
+2020 - 2021
+
+
+### Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President
+
+Organized recruitment activities for 14 students applying to the Plant breeding and genetics PhD program
+Served as liason between graduate students and faculty
+
+N/A
+
+2018 - 2019
+
+### Plant Breeding and Genetics faculty search committee 
+
+Served as the graduate student representative for the first year of the faculty search committee for the forages position.
+
+N/A
+
+2018 - 2019
+
+### Corteva Symposium Committee Member
+
+Organized Synapsis' 8th Corteva Symposium "Common Plants for uncommon goals"
+
+N/A
+
+2018 - 2019
+
+:::consise
+Received symposium ideas and speaker recommendations from Synapsis, and integrated into a voted theme
+
+Arranged flight and hotel accommodations for hosted speakers
+
+Coordinated logistics of symposium planning
+:::
+
+
+### Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich
+
+Participated in developing presentations and presenting ideas with fellow students of different instiutions to develop a greater sense of collaboration
+
+Ithaca, NY
+
+Oct 2019
+
 Professional Societies {data-icon=suitcase}
 --------------------------------------------------------------------------------  
 
@@ -160,15 +225,6 @@ Demonstrated collaboration of working with multiple research institutions for mu
 
 Highly proficient in R, moderate proficiency in command line and unix shell scripting, and minor proficiency in python.
 
-Demonstrated leadership activities including crop science society of America and graduate student organizations at Cornell.
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
 
 
 Selected Publications and Presentations {data-icon=file}
@@ -176,7 +232,7 @@ Selected Publications and Presentations {data-icon=file}
 
 ### Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley"
 
-Presentation for the 43rd Barley Improvement Conference and Tri -Societies 
+Presentation for the 43rd Barley Improvement Conference and Tri -Societies Confernce
 
 UC Davis, CA & Baltimore, MD, United States
 
@@ -184,7 +240,7 @@ UC Davis, CA & Baltimore, MD, United States
 
 **Kunze K**, Rooney T., Sweeney D., Sorrells M.
 
-### .
+###
 
 J Cell Sci. 2016 May 15;129(10):2075-84.
 
