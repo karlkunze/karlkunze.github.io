@@ -4,9 +4,14 @@ author: Karl Kunze
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: FALSE
+    css: 
+      - overide.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume               # DEFAULT FILE
+    # OVERIDE CERTAIN FUNCTIONS OF CSS
+    
+    #main resume styles sourced from here https://cdn.jsdelivr.net/gh/mnjul/html-resume@71ffb26da44abb41dad40b64eb7a975ccc5dd247/style.css
 # uncomment this line to produce HTML and PDF in RStudio:
+  
 knit: pagedown::chrome_print
 ---
 
@@ -26,21 +31,18 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
--   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes and integrating genetic data to make selection decision and publish original research
 
--   Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
 
--   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
+-   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, characterization of barley seed traits for malting barley selection and integration genomic data to make selection decisions
 
--   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker.
+-   Highly experienced in processing, analysis, organization, and experimental design of field trials of a barley breeding program since 2017
 
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.\     \hfill    2019-present
+-   Highly proficient in R statistical software and Excel. Moderate proficiency in Unix shell scripting and command line. Limited experience with Python
 
--   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+-  Highly experienced in aerial imaging, Conducted over 100 flights and US FAA part 107 certified since June 2019
 
--   Basic proficiency related to chemistry for malting quality analysis 
 
--   Demonstrated ability to work in multi-institutional collaborative projects
+-   Conducted micromalting analysis of 480 barley samples at the USDA cereal crop research unit facility Madison, WI to inform selection decisions for our winter malting barley breeding program.
 
 
 Disclaimer {#disclaimer}
@@ -68,26 +70,25 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Cornell University, Gradudate School
 
-Field of Plant Breeding and Genetics
+PhD, Field of Plant Breeding and Genetics
 
 Ithaca, NY
 
-2023
+2017 - 2023
+
+Dissertation: "Genomic and Phenotypic Characterization of Breeding Barley for New York State"
 
 
 ### Cornell University, College of Agriculture and Life Sciences
 
-B.S. Plant Sciences
-Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
+B.S. Plant Sciences Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
 
 Ithaca, NY
 
-2017
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+2013 - 2017
 
 
-Research Experience {data-icon=laptop}
+Research Projects {data-icon=wheat-awn}
 --------------------------------------------------------------------------------
 
 ### 
@@ -97,46 +98,62 @@ Research Experience {data-icon=laptop}
    N/A
    
    2017 - 2020
+   
 
   Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United Sates
   
+  
   Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
+  
    
   Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population consisting of 450 lines over two location and two years. A total of 5 timepoint assays were conducted in 2020 and 8 timepoint assays conducted in 2021.
+  
+Research Experience {data-icon=wheat-awn}
+--------------------------------------------------------------------------------
+  
 
 
-Professional Societies {data-icon=suitcase}
+Leadership Activities and Professional Services {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-  Crop Science Society of America(CSSA) student member \hfill 2019-present
+  Crop Science Society of America(CSSA) student member  2019 - present
 
-  National Association of Plant Breeders (NAPB) student member \hfill 2020-present
+  National Association of Plant Breeders (NAPB) student member 2020- present
 
-  New York State Agriculture Society member \hfill 2017-present
+  New York State Agriculture Society member 2017 - present
 
-  Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
+  Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis
 
   Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Awards and grants received {data-icon=file-certificate}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Graduate student of USDA OREI grants program I and II "Developing Multi-use Naked Barley for Organic Systems"
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+NA
 
-Beijing, China
+NA
 
-2014
+2017 - 2023
 
-### Computational Biology and Bioinformatics.
 
-Teaching assistant of GBS CB2-201 courses at UAB
+### "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley"
 
-AL, USA
+American Malting Barley Association grant award of $11,500 for characterization of seed dormancy and malting quality of winter and spring barley populations
 
-2016 - 2017
+NY & WI, USA
+
+2020-2022
+
+### "Cornell Plant Breeding and Genetics Munger-Murphy Award"
+
+An award given to a current cornell plant breeding student showcasing academic excellence and dedicated field research work
+
+Ithaca, NY
+
+August 2022
 
 
 Selected Publications and Posters {data-icon=file}
