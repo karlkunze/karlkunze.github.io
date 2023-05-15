@@ -1,6 +1,6 @@
 ---
 title: "Résumé"
-author: "Karl Kunze"
+author: "Karl Hans Kunze, PhD"
 date: "02/20/2023"
 output: 
   pdf_document:
@@ -19,10 +19,11 @@ web: karlkunze.github.io
 twitter: "@kunzx37"
 linkedin: "karlkunze"
 orcid: "0000-0003-4548-1808"
-geometry: "top=.5in, left =.5in, right=.5in, bottom=.75in"
+geometry: "top=.5in, left =.25in, right=.25in, bottom=.5in"
 update: yes
 mainfont: cochineal
 sansfont: Fira Sans
+monfont: Fira Sans
 # monofont: Fira Code # I want to use this, but seems to choke on @
 urlcolor: blue
 fontsize: 11pt
@@ -37,85 +38,89 @@ photobigness: 1.75cm
 <!-- Read more about Pandoc's [fenced_divs](https://pandoc.org/MANUAL.html#extension-fenced_divs) syntax -->
 
 :::::: {.columns}
-::: {.column width="44%" data-latex="{0.44\textwidth}"}
+::: {.column width="48%" data-latex="{0.48\textwidth}"}
 
 # Education
 
 ## Undergraduate
 
--   B.S. Plant Science concentration in Plant Breeding and Genetics, minor in Business for Life Sciences- Cornell University \hfill 2013-2017
+-   Cornell University, College of Agriculture and Life Sciences, Ithaca, NY, Bachelor of Science Plant Sciences
+  \hfill\mbox{Aug 2013 - May 2017}
+
+-  Wageningen University and Research, Wageningen, Netherlands, Student Exchange Program 
+\hfill {Jan 2016 - May 2016}
 
 ## Graduate
 
--   PhD Candidate, advisor Dr. Mark Sorrells, Cornell University Graduate School, Field of Plant Breeding and Genetics, minor in Plant Pathology and Food Science
-                                                                                              \hfill 2017-present
-                                                                                              
+- Cornell University, Graduate School, Ithaca, NY, PhD Plant Breeding, Advisor Dr. Mark Sorrells
+\hfill\mbox{Aug 2017- May 2023}
+    - Dissertation title "Genomic and phenotypic characterization of barley breeding in New York state"
+     
+# Technical Skills
+
+-   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, logistical organization, management and selection decisions
+
+-   Highly experienced in processing, analysis, organization, and experimental design of field trials of a barley breeding program
+
+-   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control, command line, Open Drone Map and Agrisoft Pro. Basic experience with Python, Docker, and html
+
+-   Experienced in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.
+
 # Leadership Activities and Professional Services
 
--   Student representative of the Crop Science Society of America(CSSA) executive board \hfill 2022-present
+- Graduate Student representative of the Crop Science Society of America(CSSA) executive board & Science policy committee  \hfill {2022-present}
 
--   Representative of the CSSA science policy committee \hfill 2022-present
+- Graduate Student representative of the Cornell CALS Alumni Association  \hfill {2018-present}
 
--   Local Graduate Student Liaison member for the National Association of Plant Breeders(NAPB) Graduate Student Working Group  \hfill Fall 2020-August 2021
+- Local Graduate Student liaison for the National Association of Plant Breeders(NAPB) Graduate Student Working Group  \hfill {Sept 2020-Aug 2021}
 
--   Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President  \hfill 2018-2019
+- Participant in a Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich   \hfill {Oct 2019}
 
--   Synapsis Professional Development Committee Member \hfill 2020-2021
+- Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President & Graduate student representative on a faculty search committee 
 
--   Corteva Symposium organizing committee member\     \hfill     April 2019
+\hfill\mbox{Nov 2018 - Apr 2019}
 
--   Graduate Student Representative on the Cornell Plant Breeding Faculty Search Committee \hfill Spring 2019  
-
-# Awards and Grants Received
-
-- Graduate student of USDA OREI grants program 2017-51300-26809 and 2020-51300-32179 "Developing Multi-use Naked Barley for Organic Systems approx. $3,000,000"
-
--   "Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley award of $11,500"- American Malting barley Association Grant Award \hfill July 2021-June 2022
-
--   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill August 2022
-
--   Gerald O. Mott Award Recipient \hfill March 2022
-
--   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill December 2018
+- Synapsis Professional Development Committee Member \hfill {2020-2021}
 
 :::
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
  <!-- an empty div with an empty character to serve as a column sep -->
  \ 
 :::
-::::::  {.column width="48%" data-latex="{0.48\textwidth}"}
+::::::  {.column width="44%" data-latex="{0.44\textwidth}"}
 # Experience
 
-## Research Projects
+## Management of a winter malting barley breeding program for New York State
 
--   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
+-   Advanced a double haploid and recombinant inbred population starting with crosses in 2017.  Currently testing 25 lines for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 Recombinant inbred lines.
+ 
+-   Micromalted 240 winter barley  over two timepoints at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions \hfill\mbox{Dec 2021 and Jan-Feb 2022}
 
--   Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United States using 50K barley SNP markers
+-   Used genomic prediction, linear mixed models, spatial correction and genome wide association studies to advance lines and inform selection decisions
 
--   Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
--   Evaluation of dormancy and pre-harvest sprouting across a winter malting barley breeding population consisting of 450 lines over two location and two years.
+## Organic Multi-use naked barley for New York and the Northern United States
 
--   Evaluation of malting quality at the USDA ARS Cereal Crops Research Unit in Madison, WI \                       \hfill December 2021 and January-February 2022
+- Advanced a small population of covered by naked and naked by naked winter barley crosses to develop a naked barley variety adapted to New York conditions.
 
-# Technical Skills
+- Performed genotype by environment analysis for eight naked barley trials across the northern United States
 
--   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes and integrating genetic data to make selection decision and publish original research
+- Performed a genome wide association analysis of 250 diverse lines across 13 environments for foliar disease resistance in natural field organic conditions
 
--   Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
+- Used aerial imaging of a spring naked barley variety trial over two years to quantify barley growth over time as a precursor for competition with weeds.
 
--   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control
+- Initialized a combined nested association population using three common parents across all collaborating institution and five parents specific to NY conditions.
 
--   Basic proficiency in Unix shell scripting and command line. Limited experience with Python and Docker.
+# Professional Societies
 
--   Highly proficient in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.     \hfill    2019-present
+- Crop Science Society of America(CSSA) student member \hfill {2019-present}
 
--   Basic proficiency in Agisoft Pro and Open Drone Map software stitching applications.
+- National Association of Plant Breeders (NAPB) student member \hfill {2020-present}
 
--   Basic proficiency related to chemistry for malting quality analysis 
+- New York State Agriculture Society member \hfill {2017-present}
 
--   Demonstrated ability to work in multi-institutional collaborative projects
+- Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill {2017-present}
 
--   Participated in an International exchange workshop between Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich \hfill October 2019
+- Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
 
 :::
 :::::
@@ -125,17 +130,19 @@ photobigness: 1.75cm
 :::::: {.columns}
 ::: {.column width="44%" data-latex="{0.44\textwidth}"}
 
-# Professional Societies
 
--   Crop Science Society of America(CSSA) student member \hfill 2019-present
+# Awards and Grants Received
 
--   National Association of Plant Breeders (NAPB) student member \hfill 2020-present
+-  Graduate student of USDA OREI grants program "Developing Multi-use Naked Barley for Organic Systems" I and II
 
--   New York State Agriculture Society member \hfill 2017-present
+-   Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley, award of $11,500- American Malting barley Association Grant Award \hfill\mbox{July 2021-June 2022}
 
--   Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill 2017-present
+-   Cornell Plant Breeding and Genetics Munger-Murphy Award \hfill {Aug 2022}
 
--   Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+-   CSSA Gerald O. Mott Award Recipient \hfill {March 2022}
+
+-   Recipient of the ASA, CSSA, SSSA Future Leaders in Science Award \hfill {Dec 2018}
+
 
 # Publications
 1. Massman, C., Meints, B., Hernandez, J., Kunze, K., Smith, K. P., Sorrells, M. E., ... & Gutierrez, L. Crop Science(2023) Genomic prediction of threshability in naked barley. <https://doi.org/10.1002/csc2.20907>
@@ -157,32 +164,37 @@ photobigness: 1.75cm
 ::: {.column width="50%" data-latex="{0.50\textwidth}"}
 
 # Outreach
--   Interviewed with the Craft Maltsters guild on [Breeding Malting Barley for New York State](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/) \hfill February 2022
 
--   Presented on winter malting barley breeding progress for New York at the New York State Empire malting barley summit at the Culinary Institute of America, Hyde Park, NY           \hfill December 2022
+-   Virtual presentation with the Cornell Cooperative Extension of titled "Everything home gardeners want
+to ask about plant breeding" \hfill {March 2023}
 
--   Co-led a weekly graduate student journal club with Will Stafstrom. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science.       \hfill Spring 2022 
+-   Interviewed with the Craft Maltsters guild on [Breeding Malting Barley for New York State](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/) \hfill {Feb 2023}
+
+-   Presented on winter malting barley breeding progress for New York at the New York State Empire malting barley summit at the Culinary Institute of America, Hyde Park, NY           \hfill {Dec 2022}
+
+-   Co-led a weekly graduate student journal club with Dr.Will Stafstrom. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science. \ \hfill {Spring 2022} 
 -   Spoke at numerous annual field days to discuss barley breeding and organic naked barley to the general community
 
--   Wrote a brief article titled growing malting barley amid climate change for the [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a)            \hfill       September 2022
+-   Wrote a brief article titled growing malting barley amid climate change for the [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a)       \     \hfill {Sept 2022}
 
 -   Guest on the ["All Things Agriculture Podcast"](https://www.youtube.com/watch?v=Dw_8N39wyBI) with Eric Carey 
 
--   Presented an eOrganic webinar titled ["Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits"](https://eorganic.info/node/23566) \hfill April 2021 
+-   Presented an eOrganic webinar titled ["Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits"](https://eorganic.info/node/23566)  \ \hfill {April 2021}
 
 # Research and Conference presentations
 
--   Presented current research and status of the NY winter malting barley project at the NYS Empire Malt and Barley Summit at the Culinary Institute of America, Poughkeepsie, NY \hfill December 2022
+-   Presented current research and status of the NY winter malting barley project at the NYS Empire Malt and Barley Summit at the Culinary Institute of America, Poughkeepsie, NY \hfill {Dec 2022}
 
--   Presented research of "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA annual meeting in Baltimore, Maryland \     \hfill November 2022
+-   Presented research of "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA annual meeting in Baltimore, Maryland     \hfill {Nov 2022}
 
--   Presented research of "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" at the 23rd North American Barley Researchers Workshop and 43rd Barley Improvement Conference UC Davis,CA \                \hfill September 2022
+-   Presented research of "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" at the 23rd North American Barley Researchers Workshop and 43rd Barley Improvement Conference UC Davis,CA 
+\hfill {Sept 2022}
 
--   Presented research of "Developing Winter Malting Barley for New York State" Michigan Beer and Malt Conference in Traverse City, MI     \          \hfill January 2022 
+-   Presented research of "Developing Winter Malting Barley for New York State" Michigan Beer and Malt Conference in Traverse City, MI     \          \hfill {January 2022}
 
--   Research Presentation titled "Components of Weed Competitive Ability" at CSSA,ASA and SSSA Tri-societies annual meeting in Salt Lake City, Utah    \            \hfill November 2021
+-   Research Presentation titled "Components of Weed Competitive Ability" at CSSA,ASA and SSSA Tri-societies annual meeting in Salt Lake City, Utah    \            \hfill {Nov 2021}
 
--   Presenter at the Philly Malt and Grains Conference, Virtual           \hfill March 2021
+-   Presenter at the Philly Malt and Grains Conference, Virtual           \hfill {March 2021}
 
 :::
 :::
