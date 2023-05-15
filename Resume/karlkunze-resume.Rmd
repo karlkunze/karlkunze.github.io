@@ -19,7 +19,7 @@ web: karlkunze.github.io
 twitter: "@kunzx37"
 linkedin: "karlkunze"
 orcid: "0000-0003-4548-1808"
-geometry: "top=.5in, left =.25in, right=.25in, bottom=.5in"
+geometry: "top=.25in, left =.25in, right=.25in, bottom=.5in"
 update: yes
 mainfont: cochineal
 sansfont: Fira Sans
@@ -76,7 +76,7 @@ photobigness: 1.75cm
 
 - Participant in a Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich   \hfill {Oct 2019}
 
-- Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President & Graduate student representative on a faculty search committee 
+-Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President and Graduate student representative on a faculty search committee 
 
 \hfill\mbox{Nov 2018 - Apr 2019}
 
@@ -92,9 +92,9 @@ photobigness: 1.75cm
 
 ## Management of a winter malting barley breeding program for New York State
 
--   Advanced a double haploid and recombinant inbred population starting with crosses in 2017.  Currently testing 25 lines for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 Recombinant inbred lines.
+-   Advanced a double haploid and recombinant inbred population starting with crosses in 2017.  Currently testing 25 lines for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 recombinant inbred lines.
  
--   Micromalted 240 winter barley  over two timepoints at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions \hfill\mbox{Dec 2021 and Jan-Feb 2022}
+-   Micro malted 240 winter barley  over two time points at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions \hfill\mbox{Dec 2021 and Jan-Feb 2022}
 
 -   Used genomic prediction, linear mixed models, spatial correction and genome wide association studies to advance lines and inform selection decisions
 
