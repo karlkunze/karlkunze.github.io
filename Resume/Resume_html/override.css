@@ -1,0 +1,38 @@
+* {
+    /* Override default margins*/
+    --pagedjs-margin-right: 0.05in;
+    --pagedjs-margin-left: 0.1in;
+    --pagedjs-margin-top: 0.1in;
+    --pagedjs-margin-bottom: 0.1in;
+  }
+  
+:root{
+    --sidebar-horizontal-padding: 0.0in;
+    --sidebar-position: center;
+    --sidebar-width: 1.25in;
+    --sidebar-padding: 0.4in;
+    --main-width: 6.6in;
+    --sidebar-background-color: #8bc34a;
+    --decorator-border-width: 1in;
+    --decorator-border: 0.8px solid #8bc34a;
+
+  /* change color and thickness of timeline */
+
+ 
+}
+.aside{   
+  font-size: 10px;
+}
+
+
+  .decorator::after{
+    background-color: #8bc34a; /* change color timeline dots */
+  
+  }
+
+
+  /* Define the font family here */
+  body{
+    font-family: "Roboto", sans-serif;
+  }
+

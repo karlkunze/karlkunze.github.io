@@ -5,11 +5,18 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     css: 
+<<<<<<< HEAD
       - overide.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
       - resume               # DEFAULT FILE
     # OVERIDE CERTAIN FUNCTIONS OF CSS
     
     #main resume styles sourced from here https://cdn.jsdelivr.net/gh/mnjul/html-resume@71ffb26da44abb41dad40b64eb7a975ccc5dd247/style.css
+=======
+    - override.css
+    - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: FALSE
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 # uncomment this line to produce HTML and PDF in RStudio:
   
 knit: pagedown::chrome_print
@@ -17,8 +24,7 @@ knit: pagedown::chrome_print
 
 Aside
 ================================================================================
-
-
+Last updated on `r Sys.Date()`.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -31,6 +37,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 
 
 -   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, characterization of barley seed traits for malting barley selection and integration genomic data to make selection decisions
@@ -43,24 +50,38 @@ Skills {#skills}
 
 
 -   Conducted micromalting analysis of 480 barley samples at the USDA cereal crop research unit facility Madison, WI to inform selection decisions for our winter malting barley breeding program.
+=======
+Plant Breeding, Experimental Design, breeding program management, variety selection and improvement 
 
+Experience in agronomic, disease and grain quality phenotypic data collection
 
-Disclaimer {#disclaimer}
+Genomic prediction, genotype by environment analysis, genome wide association studies, spatial correction, and aerial imaging processing.
+
+Highly proficient in R, microsoft office applications and git version control
+
+Moderate proficiency in unix shell scripting and command line
+
+Limited familiarity with python, SQL, docker, latex, css and html.
+
+Languages
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+English
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 
-Last updated on `r Sys.Date()`.
+Basic Proficiency in German(A2)
+
+
 
 
 
 Main
 ================================================================================
 
-Karl Kunze {#title}
+Karl Hans Kunze PhD {#title}
 --------------------------------------------------------------------------------
 
-### TEst
+### To seek a position in plant breeding and genetics
 
 Test
 
@@ -70,38 +91,65 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Cornell University, Gradudate School
 
+<<<<<<< HEAD
 PhD, Field of Plant Breeding and Genetics
+=======
+Field of Plant Breeding and Genetics, advisor Dr. Mark Sorrells
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 
 Ithaca, NY
 
 2017 - 2023
+<<<<<<< HEAD
 
 Dissertation: "Genomic and Phenotypic Characterization of Breeding Barley for New York State"
+=======
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 
+Minors in Plant Pathology and Food Science
+
+Dissertation: Genomic and phenotypic characterization of barley breeding in New York state
 
 ### Cornell University, College of Agriculture and Life Sciences
 
+<<<<<<< HEAD
 B.S. Plant Sciences Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
+=======
+B.S. Plant Sciences
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 
 Ithaca, NY
 
 2013 - 2017
+<<<<<<< HEAD
 
 
 Research Projects {data-icon=wheat-awn}
+=======
+
+Concentration in Plant Breeding and Genetics, minor in Buisness for the Life Sciences
+
+Research Experience {data-icon=laptop}
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 --------------------------------------------------------------------------------
 
 ### 
-
-   Measure components of weed competitive ability in organic naked barley variety trials by using  field trait phenotypes and aerial imaging to measure barley vigor and growth over 4 trials and 2 years
+Management of a novel winter malting barley breeding program for the New York State Environment
    
-   N/A
+   Ithaca, NY
    
+<<<<<<< HEAD
    2017 - 2020
    
+=======
+   2017 - 2023
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
 
-  Genome wide association studies of organic barley diversity panels across 13 location by year field locations throughout the Northern United Sates
+Advanced a double haploid and recombinant inbred population starting with crosses in 2017. We currently have 25 lines being tested for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 Recombinant Inbred lines.
   
+Conducted seed dormancy assays and genome wide association studies of 450 lines at two locations over two years. 5 timepoints were measured in 2020 and 8 timepoints measured in 2021. 
+  
+<<<<<<< HEAD
   
   Genetic by environmental analysis of winter naked barley variety trials across 8 environments throughout the Northern United States
   
@@ -114,8 +162,35 @@ Research Experience {data-icon=wheat-awn}
 
 
 Leadership Activities and Professional Services {data-icon=suitcase}
---------------------------------------------------------------------------------
+=======
+Micromalted 240 winter barley  over two timepoints at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions 
+  
+Used genomic prediction, linear mixed models, spatial correction and genome wide association studies to advance lines and inform selection decisions
+  
+### Organic Multi-use naked barley for New York and the Northern United States
+   
+   Multi institutional project to characterize and develop naked barley for organic US systems
+   
+  United States
+  
+  2017 - 2022
 
+Advanced a small population of covered by naked and naked by naked winter barley crosses to develop a naked barley variety adapted to New York conditions.
+  
+Performed genotype by environment analysis for eight naked barley trials across the northern United States
+  
+Performed a genome wide association analysis of 250 diverse lines across 13 environments for foliar disease resistance in natural field organic conditions
+  
+Used aerial imaging of a spring naked barley variety trial over two years to quantify barley growth over time as a precursor for competition with weeds.
+  
+Initialized a combined nested association population using three common parents across all collaborating institution and five parents specific to NY conditions.
+  
+Leadership Experience {data-icon=suitcase}
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
+--------------------------------------------------------------------------------
+### Graduate Student representative for the board of the Crop Science Society of America
+
+<<<<<<< HEAD
   Crop Science Society of America(CSSA) student member  2019 - present
 
   National Association of Plant Breeders (NAPB) student member 2020- present
@@ -123,10 +198,22 @@ Leadership Activities and Professional Services {data-icon=suitcase}
   New York State Agriculture Society member 2017 - present
 
   Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis
+=======
+Serve as a liason between the CSSA leadership and the graduate student members of the society
+Currently serve on the tri society science policy committee
 
-  Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+N/A
 
+2021 - 2023
 
+### Local graduate student liason for National Associaion of Plant Breeders graduate student working group
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
+
+Coordinated graduate student working group to organize virtual events and connect to personel at Cornell University for the virtual 2021 NAPB meeting
+
+N/A
+
+<<<<<<< HEAD
 Awards and grants received {data-icon=file-certificate}
 --------------------------------------------------------------------------------
 
@@ -154,22 +241,109 @@ An award given to a current cornell plant breeding student showcasing academic e
 Ithaca, NY
 
 August 2022
+=======
+2020 - 2021
 
 
-Selected Publications and Posters {data-icon=file}
+
+### Cornell Plant Breeding and Genetics Graduate Student Association Professional Development Committee
+
+Organized 4 virtual seminar chat series with graduate alumni of the Plant Breeding and Genetics program
+Invited speakers from various fields including, industry, academia, start ups and government research organizations
+
+
+N/A
+
+2020 - 2021
+
+
+### Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President
+
+Organized recruitment activities for 14 students applying to the Plant breeding and genetics PhD program
+Served as liason between graduate students and faculty
+
+N/A
+
+2018 - 2019
+
+### Plant Breeding and Genetics faculty search committee 
+
+Served as the graduate student representative for the first year of the faculty search committee for the forages position.
+
+N/A
+
+2018 - 2019
+
+### Corteva Symposium Committee Member
+
+Organized Synapsis' 8th Corteva Symposium "Common Plants for uncommon goals"
+
+N/A
+
+2018 - 2019
+
+:::consise
+Received symposium ideas and speaker recommendations from Synapsis, and integrated into a voted theme
+
+Arranged flight and hotel accommodations for hosted speakers
+
+Coordinated logistics of symposium planning
+:::
+
+
+### Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich
+
+Participated in developing presentations and presenting ideas with fellow students of different instiutions to develop a greater sense of collaboration
+
+Ithaca, NY
+
+Oct 2019
+
+Professional Societies {data-icon=suitcase}
+--------------------------------------------------------------------------------  
+
+Crop Science Society of America(CSSA)
+  
+National Association of Plant Breeders (NAPB)
+
+Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis
+
+New York State Agriculture Society
+
+Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
+
+Skills {data-icon=computer}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+Highly experienced in processing, analysis, organization, and experimental design of field trials of a novel barley breeding program
 
-Poster for 2013 International Conference of Genomics
+Field data collection, including agronomic phenotypes, aerial imaging collection, seed germination and malting quality
 
-/Qingdao, China
+Highly proficient in data analysis to integrate phenotypic and genotypic data for mapping, genomic prediction and section decisions
 
-2014
+Five years of experience managing a novel winter malting breeding program and organic naked barley program for New York State
 
-**Yu L**, Chen B, Zhang Z.
+Demonstrated collaboration of working with multiple research institutions for multi collaborative national grant projects
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+Highly proficient in R, moderate proficiency in command line and unix shell scripting, and minor proficiency in python.
+
+>>>>>>> 4743a36d26cad5a86ba08fbf6556f8457fafe578
+
+
+Selected Publications and Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley"
+
+Presentation for the 43rd Barley Improvement Conference and Tri -Societies Confernce
+
+UC Davis, CA & Baltimore, MD, United States
+
+2022
+
+**Kunze K**, Rooney T., Sweeney D., Sorrells M.
+
+###
 
 J Cell Sci. 2016 May 15;129(10):2075-84.
 
