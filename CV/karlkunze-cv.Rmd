@@ -4,17 +4,20 @@ output:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
 geometry: margin=1in
+
 title: "Curriculum Vitae"
 author: Karl Hans Kunze
+
+jobtitle: "Chief Brewer, Arthur Guinness & Son"
 address: "422 Bradfield Hall, Ithaca NY 14853"
 fontawesome: yes
 email: khk44@cornell.edu
-linkedin: "karlkunze"
-github: karlkunze
-twitter: @kunzx37
-#phone:
+#linkedin: karlkunze
+#github: karlkunze
+#twitter: @kunzx37
 web: karlkunze.github.io
 updated: no
+
 keywords: Plant Breeding, Genetics, Quantative Genetics, Experimental Design, Barley
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -91,7 +94,7 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 
 -   NYS Department of Agriculture and Markets Funding
 
-# Publications \orcidlink{0000-0003-4548-1808}
+# Publications
 
 1. Massman, C., Meints, B., Hernandez, J., Kunze, K., Smith, K. P., Sorrells, M. E., ... & Gutierrez, L. Genomic prediction of threshability in naked barley. Crop Science. <https://doi.org/10.1002/csc2.20907>
 
@@ -136,11 +139,11 @@ Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Pl
 
 # Presentations and Conferences attended
 
-<<<<<<< HEAD
+
 - Presented research and updates on winter malting barley variety development at the 5th annual Empire State Malting Barley Summit at the Culinary Institute of America December 2022, Hyde Park, New York
 =======
 -Presented the progress of winter malting barley breeding in New York at the New York State Empire Malting Barley summit at the Cullinary Institute of America Hyde Park, NY \hfill December 2022
->>>>>>> 39d5ba947de90f6edf69cc7b410d95f873e3f04a
+
 
 - Research Presentations titled "Interaction of Pre-harvest sprouting, germination rate and malting quality for winter and facultative malting barley" and "Genotype by Environment Interaction of Organic Winter Naked Barley" at CSSA,ASA and SSSA Tri-society annual meeting November 2022, Baltimore, Maryland
 
