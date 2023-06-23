@@ -45,5 +45,5 @@
 
 
 
-<span style="color: white;"> Karl Kunze </span>  
+<span style="color: white;"> Karl Hans Kunze, PhD </span>  
 
