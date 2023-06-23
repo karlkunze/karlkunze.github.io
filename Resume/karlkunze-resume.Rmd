@@ -13,7 +13,7 @@ fontawesome: TRUE
 # How can we get a hold of you?
 email: khk44@cornell.edu
 #phone: 
-location: "422 Bradfield Hall, Ithaca NY, 14853"
+location: "102c Bebee Hall, Ithaca NY, 14853"
 github: karlkunze
 web: karlkunze.github.io
 twitter: "@kunzx37"
