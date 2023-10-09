@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.15)  26 JUN 2023 12:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.15)  7 SEP 2023 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,199 +1203,203 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/b/n' will be
 (Font)              scaled to size 9.62714pt on input line 164.
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 167.
+(Font)              scaled to size 12.0pt on input line 177.
 LaTeX Font Info:    Font shape `TU/cochineal(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 167.
+(Font)              scaled to size 12.0pt on input line 177.
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 167.
+(Font)              scaled to size 10.95pt on input line 177.
+LaTeX Font Info:    Font shape `TU/cochineal(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 186.
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--175
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+[]\TU/cochineal(0)/m/n/10.95 Dissertation title “Genomic And Phenotypic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
 []\TU/cochineal(0)/m/n/10.95 Cornell University, College of Agriculture and Lif
 e
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 171--175
+Underfull \hbox (badness 4229) in paragraph at lines 199--203
 \TU/cochineal(0)/m/n/10.95 Sciences, Ithaca, NY, Bachelor of Science Plant Scie
 nces
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
 []\TU/cochineal(0)/m/n/10.95 Wageningen University and Research, Wageningen,
  []
 
-LaTeX Font Info:    Font shape `TU/cochineal(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 189.
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
-[]\TU/cochineal(0)/m/n/10.95 -Cornell Plant Breeding and Genetics Graduate Stud
-ent
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
+[]\TU/cochineal(0)/m/n/10.95 Cornell Plant Breeding and Genetics Graduate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
-\TU/cochineal(0)/m/n/10.95 Association(Synapsis)-President and Graduate student
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-[]\TU/cochineal(0)/m/n/10.95 Synapsis Professional Development Committee Member
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
+\TU/cochineal(0)/m/n/10.95 Student Association(Synapsis)-President and Graduate
 
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 271--276
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
+\TU/cochineal(0)/m/n/10.95 student representative on a faculty search committee
+
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 267--272
 []\TU/cochineal(0)/m/n/10.95 Advanced a double haploid and recombinant inbred
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 271--276
+Underfull \hbox (badness 1997) in paragraph at lines 267--272
 \TU/cochineal(0)/m/n/10.95 population starting with crosses in 2017. Currently
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 271--276
+Underfull \hbox (badness 1337) in paragraph at lines 267--272
 \TU/cochineal(0)/m/n/10.95 testing 25 lines for a third year of yield trials an
 d a
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 281--284
+Underfull \hbox (badness 6775) in paragraph at lines 277--280
 \TU/cochineal(0)/m/n/10.95 correction and genome wide association studies to
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 308--311
+Underfull \hbox (badness 3746) in paragraph at lines 304--307
 []\TU/cochineal(0)/m/n/10.95 Initialized a combined nested association populati
 on
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 308--311
+Underfull \hbox (badness 2790) in paragraph at lines 304--307
 \TU/cochineal(0)/m/n/10.95 using three common parents across all collaborating
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--326
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 []\TU/cochineal(0)/m/n/10.95 New York State Agriculture Society member
  []
 
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 335.
+(Font)              scaled to size 8.0pt on input line 331.
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 335.
+(Font)              scaled to size 8.0pt on input line 331.
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
 []\TU/cochineal(0)/m/n/10.95 Graduate student of USDA OREI grants program
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
 \TU/cochineal(0)/m/n/10.95 “Developing Multi-use Naked Barley for Organic
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 347--352
+Underfull \hbox (badness 4940) in paragraph at lines 343--348
 []\TU/cochineal(0)/m/n/10.95 Genetic Characterization of Germination Traits and
 
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 347--352
+Underfull \hbox (badness 1596) in paragraph at lines 343--348
 \TU/cochineal(0)/m/n/10.95 Their Relationship to Preharvest Sprouting in Winter
 
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 357--359
+Underfull \hbox (badness 1259) in paragraph at lines 353--355
 []\TU/cochineal(0)/m/n/10.95 Recipient of the ASA, CSSA, SSSA Future Leaders in
 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.5761pt on input line 370.
+(Font)              scaled to size 7.5761pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.4115pt on input line 370.
+(Font)              scaled to size 5.4115pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.824pt on input line 370.
+(Font)              scaled to size 10.824pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.5768pt on input line 370.
+(Font)              scaled to size 7.5768pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.412pt on input line 370.
+(Font)              scaled to size 5.412pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.82184pt on input line 370.
+(Font)              scaled to size 10.82184pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.57527pt on input line 370.
+(Font)              scaled to size 7.57527pt on input line 366.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.41092pt on input line 370.
+(Font)              scaled to size 5.41092pt on input line 366.
 
-Underfull \hbox (badness 7963) in paragraph at lines 372--377
+Underfull \hbox (badness 7963) in paragraph at lines 368--373
 \TU/cochineal(0)/m/n/10.95 The Plant Genome(2022) Genome wide marker
  []
 
 LaTeX Font Info:    Font shape `TU/cochineal(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 379.
+(Font)              scaled to size 10.95pt on input line 375.
 
-Underfull \hbox (badness 1635) in paragraph at lines 382--388
+Underfull \hbox (badness 1635) in paragraph at lines 378--384
 []\TU/cochineal(0)/m/n/10.95 Chris Massman, Brigid Meints, Javier Hernandez,
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 382--388
+Underfull \hbox (badness 3229) in paragraph at lines 378--384
 \TU/cochineal(0)/m/n/10.95 P. Smith, Julie C. Dawson, and Lucia Gutierrez.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--388
+Underfull \hbox (badness 10000) in paragraph at lines 378--384
 \TU/cochineal(0)/m/n/10.95 Crop Science(2022) Genetic Characterization
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--388
+Underfull \hbox (badness 10000) in paragraph at lines 378--384
 \TU/cochineal(0)/m/n/10.95 of Agronomic Traits and Grain Threshability
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 382--388
+Underfull \hbox (badness 4120) in paragraph at lines 378--384
 \TU/cochineal(0)/m/n/10.95 for Organic Naked Barley in the Northern U.S.
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 407--411
+Underfull \hbox (badness 2134) in paragraph at lines 403--407
 []\TU/cochineal(0)/m/n/10.95 Virtual presentation with the Cornell Cooperative 
 Extension
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 419--423
+Underfull \hbox (badness 2564) in paragraph at lines 415--419
 []\TU/cochineal(0)/m/n/10.95 Co-led a weekly graduate student journal club with
  Dr.Will
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 450--456
+Underfull \hbox (badness 4647) in paragraph at lines 446--452
 []\TU/cochineal(0)/m/n/10.95 Presented research of “Interaction of Pre-harvest 
 sprouting,
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 450--456
+Underfull \hbox (badness 3792) in paragraph at lines 446--452
 \TU/cochineal(0)/m/n/10.95 Organic Winter Naked Barley” at CSSA annual meeting 
 in
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 456--462
+Underfull \hbox (badness 4647) in paragraph at lines 452--458
 []\TU/cochineal(0)/m/n/10.95 Presented research of “Interaction of Pre-harvest 
 sprouting,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--462
+Underfull \hbox (badness 10000) in paragraph at lines 452--458
 \TU/cochineal(0)/m/n/10.95 Workshop and 43rd Barley Improvement Conference UC
  []
 
@@ -1403,10 +1407,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--462
 AED: lastpage setting LastPage
 [2] (./karlkunze-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 21970 strings out of 478190
- 398877 string characters out of 5854827
- 924698 words of memory out of 5000000
- 42221 multiletter control sequences out of 15000+600000
+ 21972 strings out of 478190
+ 398901 string characters out of 5854827
+ 923738 words of memory out of 5000000
+ 42223 multiletter control sequences out of 15000+600000
  475931 words of font info for 108 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,11n,132p,1205b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
