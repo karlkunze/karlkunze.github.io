@@ -40,8 +40,19 @@ photobigness: 1.75cm
 :::::: {.columns}
 ::: {.column width="48%" data-latex="{0.48\textwidth}"}
 
+# Current Position
+
+- Post Doctoral Research Associate advisor Dr. Kelly Robbins, Cornell University 
+  \hfill\mbox{June 2023 - present}
+
 # Education
 
+## Graduate
+
+- Cornell University, Graduate School, Ithaca, NY, PhD Plant Breeding, Advisor Dr. Mark Sorrells
+\hfill\mbox{Aug 2017- May 2023}
+    - Dissertation title "Genomic And Phenotypic Characterization of Malting Barley and Naked Multi-use Barley as Winter Crops for New York State"
+   
 ## Undergraduate
 
 -   Cornell University, College of Agriculture and Life Sciences, Ithaca, NY, Bachelor of Science Plant Sciences
@@ -50,12 +61,6 @@ photobigness: 1.75cm
 -  Wageningen University and Research, Wageningen, Netherlands, Student Exchange Program 
 \hfill {Jan 2016 - May 2016}
 
-## Graduate
-
-- Cornell University, Graduate School, Ithaca, NY, PhD Plant Breeding, Advisor Dr. Mark Sorrells
-\hfill\mbox{Aug 2017- May 2023}
-    - Dissertation title "Genomic and phenotypic characterization of barley breeding in New York state"
-     
 # Technical Skills
 
 -   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, logistical organization, management and selection decisions
@@ -68,19 +73,12 @@ photobigness: 1.75cm
 
 # Leadership Activities and Professional Services
 
-- Graduate Student representative of the Crop Science Society of America(CSSA) executive board & Science policy committee  \hfill {2022-present}
-
-- Graduate Student representative of the Cornell CALS Alumni Association  \hfill {2018-present}
-
-- Local Graduate Student liaison for the National Association of Plant Breeders(NAPB) Graduate Student Working Group  \hfill {Sept 2020-Aug 2021}
+- Graduate Student representative of the Crop Science Society of America (CSSA) executive board & Science policy committee  \hfill {2022-present}
 
 - Participant in a Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich   \hfill {Oct 2019}
 
--Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President and Graduate student representative on a faculty search committee 
-
+- Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President and Graduate student representative on a faculty search committee 
 \hfill\mbox{Nov 2018 - Apr 2019}
-
-- Synapsis Professional Development Committee Member \hfill {2020-2021}
 
 :::
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
@@ -92,7 +90,7 @@ photobigness: 1.75cm
 
 ## Management of a winter malting barley breeding program for New York State
 
--   Advanced a double haploid and recombinant inbred population starting with crosses in 2017.  Currently testing 25 lines for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 recombinant inbred lines.
+-   Advanced a double haploid and recombinant inbred population starting with crosses in 2017. Currently testing 25 lines for a third year of yield trials and a preliminary yield trial consisting of 200 advanced double haploid lines and 200 recombinant inbred lines.
  
 -   Micro malted 240 winter barley  over two time points at the USDA Cereal crops and research unit in Madison, WI. Malting quality resulted were used to inform selection decisions \hfill\mbox{Dec 2021 and Jan-Feb 2022}
 
@@ -112,7 +110,7 @@ photobigness: 1.75cm
 
 # Professional Societies
 
-- Crop Science Society of America(CSSA) student member \hfill {2019-present}
+- Crop Science Society of America (CSSA) student member \hfill {2019-present}
 
 - National Association of Plant Breeders (NAPB) student member \hfill {2020-present}
 
@@ -133,7 +131,7 @@ photobigness: 1.75cm
 
 # Awards and Grants Received
 
--  Graduate student of USDA OREI grants program "Developing Multi-use Naked Barley for Organic Systems" I and II
+-  Graduate student of USDA OREI grants program "Developing Multi-use Naked Barley for Organic Systems"
 
 -   Genetic Characterization of Germination Traits and Their Relationship to Preharvest Sprouting in Winter and Spring Barley, award of $11,500- American Malting barley Association Grant Award \hfill\mbox{July 2021-June 2022}
 
