@@ -8,8 +8,8 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: Karl Hans Kunze
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "422 Bradfield Hall, Ithaca NY 14853"
+jobtitle: "Post Doctoral Research Associate"
+address: "102C Beebe Hall, Ithaca NY 14853"
 fontawesome: yes
 email: khk44@cornell.edu
 #linkedin: karlkunze
@@ -28,9 +28,11 @@ urlcolor: blue
 
 # Current Position
 
-PhD Candidate in Plant Breeding and Genetics, advisor Dr. Mark Sorrells, Cornell University       \hfill 2017-present
+Post Doctoral Research Associate in Plant Breeding and Genetics, advisor Dr. Kelly Robbins, Cornell University       \hfill July 2023-present
 
 # Education:
+
+PhD in Plant Breeding and Genetics, advisor Dr. Mark Sorrells, Cornell University       \hfill 2017- August 2023  
 
 B.S. Plant Science concentration in Plant Breeding and Genetics,
   minor in Business for Life Sciences- Cornell University             \hfill 2013-2017
@@ -40,6 +42,7 @@ B.S. Plant Science concentration in Plant Breeding and Genetics,
 Graduate Research Assistant, Graduate School Field of Plant Breeding minor in Plant Pathology and Food Science, Cornell University \hfill 2017-present
 
 # Research Projects
+-   Statistical modeling of remote sensing data for characterization of alalfa cultivars
 
 -   Weed Competitive Ability in Organic Spring Naked Barley and use collected field trait phenotypes and UAV imaging to measure barley vigor and growth in organic environments
 
