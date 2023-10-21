@@ -1,7 +1,7 @@
 ---
 title: "Résumé"
 author: "Karl Hans Kunze, PhD"
-date: "02/20/2023"
+date: "10/09/2023"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -65,9 +65,9 @@ photobigness: 1.75cm
 
 -   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, logistical organization, management and selection decisions
 
--   Highly experienced in processing, analysis, organization, and experimental design of field trials of a barley breeding program
+-   Highly experienced in processing, analysis, organization, and experimental design of field trials of a barley breeding program. Moderate experience in modeling novel statistical concepts for longitudinal measurements for barley and alfalfa
 
--   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control, command line, Open Drone Map and Agrisoft Pro. Basic experience with Python, Docker, and html
+-   Highly proficient in R statistical software and Excel for data management and analysis. Moderate proficiency in using git version control, command line, and image stitching applications. Basic experience with Python, Docker, and html
 
 -   Experienced in flying unmanned aerial systems for imaging of plant variety trials and breeding populations & Certified FAA UAS Part 107 Remote Pilots License.
 
@@ -75,10 +75,10 @@ photobigness: 1.75cm
 
 - Graduate Student representative of the Crop Science Society of America (CSSA) executive board & Science policy committee  \hfill {2022-present}
 
-- Participant in a Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich   \hfill {Oct 2019}
-
 - Cornell Plant Breeding and Genetics Graduate Student Association(Synapsis)-President and Graduate student representative on a faculty search committee 
 \hfill\mbox{Nov 2018 - Apr 2019}
+
+- Participant in a Multi cultural exchange workshop Cornell University, Tokyo University of Agriculture and Technology and the Technical University of Munich   \hfill {Oct 2019}
 
 :::
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
@@ -87,6 +87,14 @@ photobigness: 1.75cm
 :::
 ::::::  {.column width="44%" data-latex="{0.44\textwidth}"}
 # Experience
+
+## Statisical modeling of alfalfa growth using multi-spectral aerial imaging
+
+- Performed logistical and data management of multi-spectral imaging of 3 alfalfa locations, from stitching to image value extraction
+
+- Used random regression statistical software to model alfalfa growth curves using extracted NDVI values as a proxy
+
+- Experience using open source database breeding software such as Imagebreed and Breedbase
 
 ## Management of a winter malting barley breeding program for New York State
 
@@ -116,7 +124,7 @@ photobigness: 1.75cm
 
 - New York State Agriculture Society member \hfill {2017-present}
 
-- Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill {2017-present}
+- Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill {2017-2023}
 
 - Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
 
@@ -171,13 +179,9 @@ to ask about plant breeding" \hfill {March 2023}
 -   Presented on winter malting barley breeding progress for New York at the New York State Empire malting barley summit at the Culinary Institute of America, Hyde Park, NY           \hfill {Dec 2022}
 
 -   Co-led a weekly graduate student journal club with Dr.Will Stafstrom. Topics were related to current research and topics in the fields of plant breeding, genetics and crop science. \ \hfill {Spring 2022} 
--   Spoke at numerous annual field days to discuss barley breeding and organic naked barley to the general community
-
 -   Wrote a brief article titled growing malting barley amid climate change for the [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a)       \     \hfill {Sept 2022}
 
 -   Guest on the ["All Things Agriculture Podcast"](https://www.youtube.com/watch?v=Dw_8N39wyBI) with Eric Carey 
-
--   Presented an eOrganic webinar titled ["Progress on Organic Naked Barley Breeding, Exploration of Organic Breeding Traits"](https://eorganic.info/node/23566)  \ \hfill {April 2021}
 
 # Research and Conference presentations
 
@@ -191,8 +195,6 @@ to ask about plant breeding" \hfill {March 2023}
 -   Presented research of "Developing Winter Malting Barley for New York State" Michigan Beer and Malt Conference in Traverse City, MI     \          \hfill {January 2022}
 
 -   Research Presentation titled "Components of Weed Competitive Ability" at CSSA,ASA and SSSA Tri-societies annual meeting in Salt Lake City, Utah    \            \hfill {Nov 2021}
-
--   Presenter at the Philly Malt and Grains Conference, Virtual           \hfill {March 2021}
 
 :::
 :::
