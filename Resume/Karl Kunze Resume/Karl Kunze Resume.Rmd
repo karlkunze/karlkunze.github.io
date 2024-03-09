@@ -1,0 +1,67 @@
+---
+name: Karl    
+surname: Kunze
+position: "Post Doctoral Research Associate"
+address: "102C Beebe Hall Ithaca, NY 14850"
+www: karlkunze.github.io
+email: khk44@cornell.edu
+twitter: kunzx37
+github: karlkunze
+linkedin: karlkunze
+orcid: "0000-0003-4548-1808"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::twentyseconds
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+#profilepic: /home/karl/git/karlkunze.github.io/images/khk44_2017.jpg
+#aboutme: "Karl Kunze is a plant breeding researcher."
+```
+
+# Some stuff about me
+
+ * I poisoned myself doing research.
+ * I was the first woman to win a Nobel prize
+ * I was the first person and only woman to win a Nobel prize in two different sciences.
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD Plant Breeding", "August 2017 - June 2023", "Cornell University", "Ithaca, NY",
+  "Bachelor in Plant Sciences", "August 2013 - May 2017", "Cornell University", "Ithaca, NY",
+  "Student Exchange Program", "Spring 2016", " Wageningen University and Research", "Wageningen, Netherlands"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Nobel Prizes
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
+# Publications
+
+```{r}
+library(dplyr)
+knitr::write_bib(c("vitae", "tibble"), "packages.bib")
+
+bibliography_entries("packages.bib") %>%
+  arrange(desc(author$family), issued)
+```
+
