@@ -8,9 +8,9 @@
 
 ### Work Experience
 
-#### Plant Breeder I, Hot Pepper at HM Clause -Davis, CA March 2024 - present
+Plant Breeder I, Hot Pepper at HM Clause - Davis, CA March 2024 - present
 
-#### Post Doctoral Research Associate at Cornell University, Plant Breeding and Quantative Genetics June 2023- Feburary 2024
+Post Doctoral Research Associate at Cornell University, Plant Breeding and Quantitative Genetics June 2023- February 2024
 
 ### Education
 
