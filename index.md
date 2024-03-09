@@ -25,7 +25,9 @@
 
 ## <span style="color: grey;"> Where to Contact me: </span>  
 
-* **[Email](mailto:khk44@cornell.edu)**  
+* **[Email](mailto:karlkunze13@gmail.com)**  
+
+* **[Email-work](mailto:karl.kunze@hmclause.com)**  
 
 * **[LinkedIn](https://www.linkedin.com/in/karlkunze/)** 
 
