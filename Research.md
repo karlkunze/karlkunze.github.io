@@ -33,7 +33,7 @@ My second PhD project was two fold, advance our winter malting barley breeding p
 
 3. Kunze, K. H., Meints, B., Massman, C., Gutiérrez, L., Hayes, P. M., Smith, K. P., & Sorrells, M. E. (2024). Genotype × environment interactions of organic winter naked barley for agronomic, disease, and grain quality traits. Crop Science, 64, 678–696. https://doi.org/10.1002/csc2.21195
 
-4. Ranjita Thapa, **Karl H Kunze**, Julie Hansen, Christopher Pierce, Virginia Moore, Ian Ray, Liam Wickes-Do, Nicolas Morales, Felipe Sabadin, Nicholas Santantonio, Michael A Gore, Kelly Robbins, Remote sensing for estimating genetic parameters of biomass accumulation and modeling stability of growth curves in alfalfa, G3 Genes|Genomes|Genetics, Volume 14, Issue 11, November 2024, jkae200, <https://doi.org/10.1093/g3journal/jkae200>
+4. Thapa, R., **Kunze, K. H.**, Hansen, J., Pierce, C., Moore, V., Ray, I., ... & Robbins, K. (2024). Remote sensing for estimating genetic parameters of biomass accumulation and modeling stability of growth curves in alfalfa. G3: Genes, Genomes, Genetics, 14(11), jkae200.<https://doi.org/10.1093/g3journal/jkae200>
 
 5. Massman, C., Meints, B., Hernandez, J., **Kunze, K.**, Smith, K. P., Sorrells, M. E., Hayes, P. M., & Gutierrez, L. (2023). Genomic prediction of threshability in naked barley. Crop Science, 63, 674–689. <https://doi.org/10.1002/csc2.20907>
 
@@ -48,8 +48,8 @@ My second PhD project was two fold, advance our winter malting barley breeding p
 10. Sweeney, D.W., **Kunze, K.H.** & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
 
 
+## External links
 
-Check out our Multi-use Organic Naked Barley project websites
 =======
 
 [USDA OREI Multi-use Naked Barley Project](https://barleyworld.org/orei-project).
