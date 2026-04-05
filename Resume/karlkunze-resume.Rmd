@@ -1,7 +1,7 @@
 ---
-title: "Résumé"
+title: "Résumé, Academic"
 author: "Karl Hans Kunze, PhD"
-date: "10/09/2023"
+date: "04/05/2026"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -11,12 +11,11 @@ output:
 orcidlink: TRUE
 fontawesome: TRUE
 # How can we get a hold of you?
-email: khk44@cornell.edu
+email: karl.kunze13@gmail.com
 #phone: 
-location: "102c Bebee Hall, Ithaca NY, 14853"
+location: "9241 Mace Blvd. Davis, CA 95618"
 github: karlkunze
 web: karlkunze.github.io
-twitter: "@kunzx37"
 linkedin: "karlkunze"
 orcid: "0000-0003-4548-1808"
 geometry: "top=.25in, left =.25in, right=.25in, bottom=.5in"
@@ -42,8 +41,13 @@ photobigness: 1.75cm
 
 # Current Position
 
-- Post Doctoral Research Associate advisor Dr. Kelly Robbins, Cornell University 
-  \hfill\mbox{June 2023 - present}
+- Hot Pepper Breeder I, HM Clause/Limagrain, Davis, CA 
+  \hfill\mbox{March 2024 - present}
+  
+# Past Position
+
+- Post Doctoral Researcher, advisor Dr. Kelly Robbins, Cornell University, Ithaca NY
+  \hfill\mbox{June 2023 - Feb 2024}
 
 # Education
 
@@ -63,9 +67,11 @@ photobigness: 1.75cm
 
 # Technical Skills
 
--   Highly proficient in operating and data collection of a plant breeding program including measurement field phenotypes, genotype data, logistical organization, management and selection decisions.
+-   Highly proficient in operating and data collection of a 
 
--   Highly experienced in processing, analysis, organization, and experimental design of field trials of a barley breeding program. Highly experienced in modeling with novel statistical concepts including linear mixed models, random regression and longitudinal measurements for barley and alfalfa.
+-   Highly proficient of conceptualization, management and logistical implementation of academic and industry plant breeding proagrams.
+
+-   Highly experienced in processing, analysis, organization, and experimental design for barley and hot pepper breeding systems, Highly experienced in modeling with novel statistical concepts including linear mixed models, random regression and longitudinal measurements for hot pepper open field and barley.
 
 -   Highly proficient in R statistical software for data management and analysis. Moderate proficiency in using git version control, command line, and image stitching applications. Basic experience with Python, Docker, and html
 
@@ -137,11 +143,11 @@ photobigness: 1.75cm
 
 # Professional Societies
 
-- Crop Science Society of America (CSSA) student member \hfill {2019-present}
+- Crop Science Society of America (CSSA) student member \hfill {2019-2024}
 
-- National Association of Plant Breeders (NAPB) student member \hfill {2020-present}
+- National Association of Plant Breeders (NAPB) student member \hfill {2020-2024}
 
-- New York State Agriculture Society member \hfill {2017-present}
+- New York State Agriculture Society member \hfill {2017-2024}
 
 - Cornell Plant Breeding and Genetics Graduate Student Association, Synapsis \hfill {2017-2023}
 
