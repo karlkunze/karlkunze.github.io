@@ -153,16 +153,18 @@ photobigness: 1.75cm
 
 - Alumni of Alpha Gamma Rho, Professional and Social Agricultural Fraternity, Zeta Chapter
 
-# Publications
-1. Massman, C., Meints, B., Hernandez, J., Kunze, K., Smith, K. P., Sorrells, M. E., ... & Gutierrez, L. Crop Science(2023) Genomic prediction of threshability in naked barley. <https://doi.org/10.1002/csc2.20907>
+# Selected Publications
+1. Kunze, K. H., Rooney, T. E., Sweeney, D., & Sorrells, M. E. (2026). The SD1 locus affects primary seed dormancy in winter malting barley. The Plant Genome, 19, e70234. <https://doi.org/10.1002/tpg2.70234>
 
-2. Travis E. Rooney, Karl H. Kunze, Mark E. Sorrells. The Plant Genome(2022) Genome wide marker effect heterogeneity is associated with a large effect dormancy locus in winter malting barley. <https://doi.org/10.1002/tpg2.20247>
+2. Kunze, K. H., Meints, B., Massman, C., Gutiérrez, L., Hayes, P. M., Smith, K. P., Bergstrom, G. C., & Sorrells, M. E. (2024). Genome-wide association of an organic naked barley diversity panel identified quantitative trait loci for disease resistance. The Plant Genome, 17, e20530. <https://doi.org/10.1002/tpg2.20530>
 
-3. Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,& Sorrells, M. E. (2022). Effect of Genotype and Environment on Food-Related Traits of Organic Winter Naked Barleys. *Foods*, *11*(17),2642.<https://doi.org/10.3390/foods11172642>
+3. Kunze, K. H., Meints, B., Massman, C., Gutiérrez, L., Hayes, P. M., Smith, K. P., & Sorrells, M. E. (2024). Genotype × environment interactions of organic winter naked barley for agronomic, disease, and grain quality traits. Crop Science, 64, 678–696. https://doi.org/10.1002/csc2.21195
 
-4. Chris Massman, Brigid Meints, Javier Hernandez, Karl Kunze, Patrick M.Hayes, Mark E. Sorrells, Kevin P. Smith, Julie C. Dawson, and Lucia Gutierrez. Crop Science(2022) Genetic Characterization of Agronomic Traits and Grain Threshability for Organic Naked Barley in the Northern U.S. <https://doi.org/10.1002/csc2.20686>
+4. Ranjita Thapa, Karl H Kunze, Julie Hansen, Christopher Pierce, Virginia Moore, Ian Ray, Liam Wickes-Do, Nicolas Morales, Felipe Sabadin, Nicholas Santantonio, Michael A Gore, Kelly Robbins, Remote sensing for estimating genetic parameters of biomass accumulation and modeling stability of growth curves in alfalfa, G3 Genes|Genomes|Genetics, Volume 14, Issue 11, November 2024, jkae200, <https://doi.org/10.1093/g3journal/jkae200>
 
-5. Sweeney, D.W., Kunze, K.H. & Sorrells, M.E. QTL x environment modeling of malting barley preharvest sprouting. Theor Appl Genet (2021). <https://doi.org/10.1007/s00122-021-03961-5>
+5. Bunting, J. S., Ross, A. S., Meints, B. M., Hayes, P. M., Kunze, K.,& Sorrells, M. E. (2022). Effect of Genotype and Environment on Food-Related Traits of Organic Winter Naked Barleys. *Foods*, *11*(17),2642.<https://doi.org/10.3390/foods11172642>
+
+
 :::
 ::: {.column width="2%" data-latex="{0.02\textwidth}"}
 \ 
