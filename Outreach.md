@@ -1,22 +1,16 @@
-**<span style="color: grey;"> [HOME](./index.md) </span>**
+---
+title: "Outreach"
+permalink: /outreach/
+---
 
-## Outreach
+Below are some podcasts/articles regarding my research if you are curious to know more about some of my research work.
 
-Below are some podcasts/articles regarding my research if you are curious to know more about some of my research works.
+February 2023 - Interview with the Craft Maltsters Guild in their Q1 2023 newsletter on research of winter malting barley for New York. [Field to Bench](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/)
 
-Febuary 2023- Interview with the Craft Maltsters guild in their Q1 2023 newsletter on research of winter malting barley for New York. [Field to Bench](https://craftmalting.com/field-to-bench-consumers-and-collaboration-spur-progress-in-barley-breeding-at-cornell-university/)
+August 2022 - Article about the challenges of pre-harvest sprouting in NY featured on [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a)
 
-August 2022- Article about the challenges of pre-harvest sprouting in NY featured on [American Malting Barley Association](https://ambainc.org/news-details.php?id=63d014dfba04a) 
-
-April 2021- Guest on "All Things Agriculture Podcast" with Eric Carey
+April 2021 - Guest on "All Things Agriculture Podcast" with Eric Carey
 
 <iframe width="380" height="214" src="https://www.youtube.com/embed/Dw_8N39wyBI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-April 2021- Presentation on our organic naked barley project [Webinar](https://eorganic.org/node/34624/) on eOrganic
-
-
-
-
-
-
-
+April 2021 - Presentation on our organic naked barley project [Webinar](https://eorganic.org/node/34624/) on eOrganic

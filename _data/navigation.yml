@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Documents"
+    children:
+      - title: "CV"
+        url: /CV/karlkunze-cv.pdf
+      - title: "Resume"
+        url: /Resume/karlkunze-resume.pdf

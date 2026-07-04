@@ -1,14 +1,67 @@
-theme: jekyll-theme-slate
-logo: /images/p7101b2454f8ae61.png
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "default"
 
-title: Karl Kunze 
+plugins:
+  - jekyll-include-cache
 
+title: "Karl Kunze"
+name: "Karl Kunze"
+description: "Interdisciplinary | Barley | Plants | Breeding | Genetics"
+url: "https://karlkunze.github.io"
+logo: "/images/p7101b2454f8ae61.png"
+google_site_verification: "yul2C6Bauqlyf82t19IepEIDbyPbK5MTF-t0qKOrzqs"
 
+locale: "en-US"
+words_per_minute: 200
 
+repository: "karlkunze/karlkunze.github.io"
 
+author:
+  name: "Karl Kunze"
+  avatar: "/images/khk44_2017.jpg"
+  bio: "Plant Breeder (Hot Pepper) at HM Clause. Formerly Cornell Plant Breeding & Quantitative Genetics."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:karlkunze13@gmail.com"
+    - label: "Email (work)"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:karl.kunze@hmclause.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/karlkunze/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kunzx37"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/karlkunze"
+    - label: "Personal Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://karlkunze.io"
+    - label: "AGR Alumni"
+      icon: "fas fa-fw fa-link"
+      url: "https://cornell.brightcrowd.com/agr/karl-kunze"
 
-description: Interdisciplinary | Barley | Plants | Breeding | Genetics    
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:karlkunze13@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/karlkunze/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/karlkunze"
+    - label: "Personal Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://karlkunze.io"
 
-github: is\_project\_page:false  
-
-
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
