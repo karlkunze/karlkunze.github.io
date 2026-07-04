@@ -13,3 +13,6 @@ Resume/USDA position/
 *cover*letter*.docx
 *cover*letter*.pdf
 LOI*
+
+# Staging area for anything that should never be tracked, regardless of name.
+PRIVATE/
