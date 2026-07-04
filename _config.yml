@@ -21,6 +21,12 @@ author:
   avatar: "/images/khk44_2017.jpg"
   bio: "Plant Breeder (Hot Pepper) at HM Clause. Formerly Cornell Plant Breeding & Quantitative Genetics."
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/CV/karlkunze-cv.pdf"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/Resume/karlkunze-resume.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:karlkunze13@gmail.com"
