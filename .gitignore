@@ -16,3 +16,10 @@ LOI*
 
 # Staging area for anything that should never be tracked, regardless of name.
 PRIVATE/
+
+# Local Jekyll build artifacts (bundler installs gems here for local preview;
+# lockfile omitted so GitHub's own build resolves gems fresh in its container)
+.bundle/
+vendor/
+Gemfile.lock
+_site/

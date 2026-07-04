@@ -65,3 +65,22 @@ defaults:
     values:
       layout: "single"
       author_profile: true
+
+# LaTeX/R Markdown build sources for the CV and Resume PDFs -- these carry
+# their own YAML headers (some with unparseable R-code date placeholders)
+# that Jekyll would otherwise try to read as page front matter.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "**/*.Rmd"
+  - "**/*.tex"
+  - "**/*.log"
+  - "**/*.docx"
+  - "**/*.synctex.gz"
+  - "*.Rproj"
+  - ".Rproj.user"
+  - ".Rhistory"
+  - "Resume/templates"
+  - "Resume/Resume_html"
+  - "Resume/Karl Kunze Resume"
