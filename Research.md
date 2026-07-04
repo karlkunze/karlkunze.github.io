@@ -18,6 +18,8 @@ My post doctoral research position aimed to examine NDVI patterns of alfalfa var
 
 My PhD research was in the [Cornell small grains breeding program](https://blogs.cornell.edu/varietytrials/small-grains-wheat-oats-barley-triticale/) with Dr. Mark Sorrells. My research was defined into two major projects and three areas of interest. The principal project was the Organic Multi-use Naked Barley Project. Areas of research include multi-year and multi-location naked barley variety trials, genome wide association of multi-location and year organic diversity panels for disease resistance, and measurements of components of weed competitive ability, with a particular focus on using aerial imaging to quantify growth rate.
 
+Read the full [dissertation abstract](/CV/dissertation-abstract.pdf) for more detail on this work.
+
 My second PhD project was two-fold: advance our winter malting barley breeding program here in New York State, and research breeding methods and genetics of winter malting barley. In past field seasons, I have been using aerial imaging on our winter malting barley preliminary yield trials to determine what important agronomic or quality traits (if any) are associated with aerial imaging, particularly over time. The second large component of our winter malting barley research has been to characterize pre-harvest sprouting, germination, dormancy and malting quality of the breeding population.
 
 ## Publications
