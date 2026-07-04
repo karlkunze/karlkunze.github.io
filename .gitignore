@@ -3,3 +3,13 @@
 .RData
 .Ruserdata
 cover_letter/
+
+# Job-application-specific private drafts (cover letters, LOIs, etc.) --
+# these contain personal contact info tied to specific applications and
+# should never end up in this public portfolio repo.
+Resume/May2026/
+Resume/USDA position/
+*cover_letter*
+*cover*letter*.docx
+*cover*letter*.pdf
+LOI*

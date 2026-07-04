@@ -69,7 +69,7 @@ photobigness: 1.75cm
 
 -   Highly proficient in operating and data collection of a 
 
--   Highly proficient of conceptualization, management and logistical implementation of academic and industry plant breeding proagrams.
+-   Highly proficient of conceptualization, management and logistical implementation of academic and industry plant breeding programs.
 
 -   Highly experienced in processing, analysis, organization, and experimental design for barley and hot pepper breeding systems, Highly experienced in modeling with novel statistical concepts including linear mixed models, random regression and longitudinal measurements for hot pepper open field and barley.
 
